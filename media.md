@@ -54,6 +54,14 @@ Imagine, speak, ship.
 
 [Download](assets/luna9-lunar-horizon.jpg)
 
+![Luna Nine graphic: Entry Level Plans. Luna Nine.](assets/luna9-entry-level-plans.jpg)
+
+### Entry level plans
+
+Entry level plans are here. $100/mo or $1,000 USD a year.
+
+[Download](assets/luna9-entry-level-plans.jpg)
+
 ## Marks
 
 ![Luna Nine app icon: a mint crescent on black.](assets/luna9-icon-512.png)
