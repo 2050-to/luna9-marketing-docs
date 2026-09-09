@@ -10,7 +10,7 @@ Luna Nine is a voice-first, done-for-you software service for solo operators: on
 
 ## How it works
 
-One sentence in, working product out: you speak what you need -> it asks clarifying questions -> a plan -> code -> tests -> deploy -> CI green, no hand-holding. A control dial runs both ends - hands-off execution (self-correcting, multi-tool turns) or hands-on (plan approval, every mutation a git commit, interrupt any time). It's voice both ways - a five-minute call beats a ticket or a chat thread - and every session ends in a retrospective: lessons become rules and tests, so the next session is smarter than the last. Flat retainer ($20/$50/$100/mo), no metered billing, no surprise bills.
+One sentence in, working product out: you speak what you need -> it asks clarifying questions -> a plan -> code -> tests -> deploy -> CI green, no hand-holding. A control dial runs both ends - hands-off execution (self-correcting, multi-tool turns) or hands-on (plan approval, every mutation a git commit, interrupt any time). It's voice both ways - a five-minute call beats a ticket or a chat thread - and every session ends in a retrospective: lessons become rules and tests, so the next session is smarter than the last. Flat retainer ($100/mo or $1,000 USD/yr), no metered billing, no surprise bills.
 
 ## Community
 

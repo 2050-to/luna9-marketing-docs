@@ -66,7 +66,7 @@ You speak what you need. It asks clarifying questions, then plans, codes, tests,
 
 ### How much does it cost?
 
-Flat retainer: $20, $50, or $100 a month. No metered billing, no surprise bills.
+Flat retainer: $100 a month, or $1,000 USD a year. No metered billing, no surprise bills.
 
 ### Can I use it today?
 
