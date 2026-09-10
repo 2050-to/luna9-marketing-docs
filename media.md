@@ -72,14 +72,14 @@ Luna Nine mark.
 
 [Download](assets/luna9-icon-512.png)
 
-![Luna Nine social card: crescent, Luna Nine, Imagine, speak, ship.](assets/luna9-og-banner.png)
+![Luna Nine social card: crescent, Luna Nine, Imagine, speak, ship.](assets/og-banner.png)
 
 ### Social card
 
 Imagine, speak, ship.
 
-[Download](assets/luna9-og-banner.png)
+[Download](assets/og-banner.png)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-09; live page: https://luna9.space/media*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-10; live page: https://luna9.space/media*
