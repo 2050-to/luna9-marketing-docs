@@ -175,4 +175,4 @@ Waitlist is live at [luna9.space](https://luna9.space).
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-10; live page: https://luna9.space/whitepaper*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-12; live page: https://luna9.space/whitepaper*

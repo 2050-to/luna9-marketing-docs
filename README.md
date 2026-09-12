@@ -15,4 +15,4 @@ next sync from [2050-to/luna9](https://github.com/2050-to/luna9).
 Graphics live in `assets/` and are free to repost. Keep the Luna9 mark;
 a link back to luna9.space is welcome, not required.
 
-Last synced: 2026-09-10.
+Last synced: 2026-09-12.
