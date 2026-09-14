@@ -72,6 +72,8 @@ Flat retainer: $100 a month, or $1,000 USD a year. No metered billing, no surpri
 
 Not yet. [Join the waitlist](https://luna9.space/#waitlist) and we will ping you when we open. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
 
+[![ElevenLabs](assets/elevenlabs-grants.webp)](https://elevenlabs.io/startup-grants)
+
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-13; live page: https://luna9.space*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-14; live page: https://luna9.space*
