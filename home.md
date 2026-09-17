@@ -46,9 +46,9 @@ Voice call 5:10 PM  Dashboard live. Phone ping at 2k.
 
 What are we building today?
 
-Join the waitlist at [luna9.space](https://luna9.space/#waitlist).  
-Fields: Email; Name (optional); What are you building? (optional).  
-We'll only use this to tell you when we're open.
+Create an account at [luna9.space/signup](https://luna9.space/signup).  
+Fields: Email; Name (optional).  
+No password. We email a sign-in link.
 
 ## Questions
 
@@ -70,7 +70,7 @@ Base is $25 a month or $250 a year (text and voice notes). Pro is $100 a month o
 
 ### Can I use it today?
 
-Not yet. [Join the waitlist](https://luna9.space/#waitlist) and we will ping you when we open. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
+Yes. [Create an account](https://luna9.space/signup) and start. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
 
 [![ElevenLabs](assets/elevenlabs-grants.webp)](https://elevenlabs.io/startup-grants)
 
