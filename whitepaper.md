@@ -42,9 +42,9 @@ These operators are looking into better tools and automations. But no one serves
 
 ## Pricing Model
 
-**An entry level plan: between $20 and $50 usd per month, yearly at 10x monthly.**
+**An entry level plan: $25 per month, $250 per year.**
 
-This plan would keep voice notes and text but not have phone calls. Exact pricing is yet to be determined and is actively being worked on.
+This plan keeps voice notes and text but not phone calls.
 
 **A premium plan: $100 per month, $1000 per year**
 
@@ -175,4 +175,4 @@ Waitlist is live at [luna9.space](https://luna9.space).
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-14; live page: https://luna9.space/whitepaper*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-17; live page: https://luna9.space/whitepaper*

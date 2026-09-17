@@ -66,7 +66,7 @@ You speak what you need. It asks clarifying questions, then plans, codes, tests,
 
 ### How much does it cost?
 
-Flat retainer: $100 a month, or $1,000 USD a year. No metered billing, no surprise bills.
+Base is $25 a month or $250 a year (text and voice notes). Pro is $100 a month or $1,000 a year (includes live calls). No metered billing, no surprise bills.
 
 ### Can I use it today?
 
@@ -76,4 +76,4 @@ Not yet. [Join the waitlist](https://luna9.space/#waitlist) and we will ping you
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-14; live page: https://luna9.space*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-17; live page: https://luna9.space*
