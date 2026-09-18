@@ -1,5 +1,9 @@
 # Call or text your agentic dev.
 
+Closed betaOpen beta starts Oct 1st.
+
+# Call or text your agentic dev.
+
 Luna Nine plans the work, builds it, ships it, and rings you when it is done.
 
 [Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
@@ -70,10 +74,10 @@ Base is $25 a month or $250 a year (text and voice notes). Pro is $100 a month o
 
 ### Can I use it today?
 
-Yes. [Create an account](https://luna9.space/signup) and start. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
+Closed beta. Open beta starts Oct 1st. [Create an account](https://luna9.space/signup) and start. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
 
 [![ElevenLabs](assets/elevenlabs-grants.webp)](https://elevenlabs.io/startup-grants)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-17; live page: https://luna9.space*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-18; live page: https://luna9.space*
