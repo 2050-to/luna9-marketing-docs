@@ -1,6 +1,6 @@
 # Call or text your agentic dev.
 
-Closed betaOpen beta starts Oct 1st. [Private beta login](https://luna9.space/login)
+Closed betaOpen beta starts Oct 1st.
 
 # Call or text your agentic dev.
 
