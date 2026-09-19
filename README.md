@@ -11,6 +11,7 @@ next sync from [2050-to/luna9](https://github.com/2050-to/luna9).
 | About | [about.md](about.md) | https://luna9.space/about |
 | Media pack | [media.md](media.md) | https://luna9.space/media |
 | Whitepaper | [whitepaper.md](whitepaper.md) | https://luna9.space/whitepaper |
+| Help | [help/](help/) | https://help.luna9.space |
 
 Graphics live in `assets/` and are free to repost. Keep the Luna9 mark;
 a link back to luna9.space is welcome, not required.
