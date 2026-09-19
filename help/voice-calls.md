@@ -11,7 +11,7 @@ Live calls are on the **Pro** plan (card or a wallet that holds 1,000,000 $LUNA9
 2. Choose **Call Luna Nine**.
 3. Allow the microphone when the browser asks.
 
-If the call control is dimmed, the account is not on Pro. See [Plans and pricing](/plans-and-pricing/).
+If the call control is dimmed, the account is not on Pro. See [Plans and pricing](/help/plans-and-pricing/).
 
 ## Microphone
 
