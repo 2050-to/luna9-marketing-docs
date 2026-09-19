@@ -45,11 +45,10 @@ The large players have no incentive to cater to this market, but we do.
 
 ## Pricing Model
 
-**An entry level plan: between $20 and $50 usd per month, yearly at 10x monthly.**
-This plan would keep voice notes and text but not have phone calls.
-Exact pricing is yet to be determined and is actively being worked on.
+**An entry level plan: $25 per month, $250 per year (10x monthly).**
+This plan keeps voice notes and text but not phone calls.
 
-**A premium plan: $100 per month, $1000 per year**
+**A premium plan: $100 per month, $1,000 per year**
 
 For additional usage we will have a top up model with "Booster Packs". 
 
