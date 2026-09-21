@@ -5,7 +5,7 @@ description: Base, Pro, card billing, and $LUNA9 holder grants.
 
 Pay with a card, or connect a wallet that holds $LUNA9. There is no metered billing.
 
-Prices and checkout live on [luna9.space/pricing](https://luna9.space/pricing).
+Prices and checkout live in [Settings](https://luna9.space/app/settings/).
 
 ## Card plans
 

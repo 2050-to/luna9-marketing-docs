@@ -9,6 +9,6 @@ Signup is open. There is no password.
 2. Sign in with Google, a link we send to your email, or a wallet that holds $LUNA9.
 3. You land on chat at `/app/chat`.
 
-Chat and live calls need a Base or Pro plan. Pay with a card on [Pricing](https://luna9.space/pricing), or connect a wallet that unlocks the matching holder grant.
+Chat and live calls need a Base or Pro plan. Pay with a card in [Settings](https://luna9.space/app/settings/), or connect a wallet that unlocks the matching holder grant.
 
 Already have an account? Use [luna9.space/login](https://luna9.space/login).
