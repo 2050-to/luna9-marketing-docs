@@ -3,7 +3,7 @@ title: Voice-call basics
 description: How live calls work, how to allow the microphone, and how to pick a voice.
 ---
 
-Live calls are on the **Pro** plan (card or a wallet that holds 1,000,000 $LUNA9). Voice notes are on Base. Live calls are not.
+Live calls are on Base and Pro: a card subscription, or a wallet that holds 200,000 $LUNA9 (Base) or 1,000,000 $LUNA9 (Pro). Base includes 30 minutes of live calls in each rolling window. Pro includes 120.
 
 ## Start a call
 
@@ -11,7 +11,7 @@ Live calls are on the **Pro** plan (card or a wallet that holds 1,000,000 $LUNA9
 2. Choose **Call Luna Nine**.
 3. Allow the microphone when the browser asks.
 
-If the call control is dimmed, the account is not on Pro. See [Plans and pricing](/help/plans-and-pricing/).
+If the call control is dimmed, the account is not subscribed. See [Plans and pricing](/help/plans-and-pricing/).
 
 ## Microphone
 
