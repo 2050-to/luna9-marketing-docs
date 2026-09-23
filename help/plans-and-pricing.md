@@ -17,7 +17,7 @@ Chat and calls need Base or Pro. Sign in first; checkout then opens Stripe.
 There is no per-token invoice. Each plan includes a monthly allotment of conversations, background builds, voice notes, and live calls. When the allotment is used, wait for the window to roll, or move to Pro for a larger pool.
 
 - **Base allotment** (rolling 30 days) - 600 conversations, 2 background builds, 40 voice notes (or 30 minutes), spoken replies up to 20,000 characters, 30 minutes of live calls. Voice notes cap at 60 seconds.
-- **Pro allotment** (rolling 30 days) - 2400 conversations, 8 background builds, 80 voice notes (or 60 minutes), spoken replies up to 60,000 characters, 120 minutes of live calls. Voice notes cap at 120 seconds.
+- **Pro allotment** (rolling 30 days) - 1800 conversations, 6 background builds, 80 voice notes (or 60 minutes), spoken replies up to 60,000 characters, 90 minutes of live calls. Voice notes cap at 120 seconds.
 
 ## $LUNA9 holders
 
