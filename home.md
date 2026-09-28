@@ -4,9 +4,24 @@ Closed betaOpen beta starts Oct 1st.
 
 # Call or text your agentic dev.
 
+An online business for solo operators who want to grow.
+
 Luna Nine plans the work, builds it, ships it, and rings you when it is done.
 
 [Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
+
+1.  ## Builds
+    
+    You say what you need. It plans, codes, and tests.
+    
+2.  ## Deploys
+    
+    It ships the work live.
+    
+3.  ## Maintains
+    
+    It stays on the job and rings you when it is done.
+    
 
 **You:** Watch our order volume, alert suppliers if it hits 2k orders, ping me when that happens.
 
@@ -80,4 +95,4 @@ Closed beta. Open beta starts Oct 1st. [Create an account](https://luna9.space/s
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-27; live page: https://luna9.space*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-28; live page: https://luna9.space*
