@@ -3,28 +3,47 @@ title: Planes y precios
 description: Base, Pro, pago con tarjeta y beneficios para titulares de $LUNA9.
 ---
 
-Paga con tarjeta, o conecta una billetera que tenga $LUNA9. No hay facturación por uso medido.
+Un precio fijo. Dices lo que necesitas. Luna Nine lo planea, lo construye, lo publica y te llama cuando está listo. Paga con tarjeta, o conecta una billetera que tenga $LUNA9.
 
 Los precios están en [Planes y precios](https://luna9.space/pricing/). El pago se hace en [Ajustes](https://luna9.space/app/settings/) después de iniciar sesión.
 
 ## Planes con tarjeta
 
-- **Base** - $25 / mes o $250 / año. Texto, notas de voz y llamadas en vivo.
-- **Pro** - $100 / mes o $1.000 / año. Texto, notas de voz y llamadas en vivo.
+- **Base** - $25 / mes o $250 / año. Suficiente para llevar el trabajo por texto, voz y una llamada.
+- **Pro** - $100 / mes o $1.000 / año. El mismo trabajo, con más espacio para hablar y para construir.
 
-El chat y las llamadas requieren Base o Pro. Inicia sesión primero; el pago abre Stripe.
+El chat y las llamadas están en Base y Pro. Inicia sesión y luego elige un plan en Ajustes.
 
-No hay factura por token. Cada plan incluye una asignación mensual de conversaciones, compilaciones en segundo plano, notas de voz y llamadas en vivo. Cuando la asignación se agota, espera a que se renueve la ventana, o pasa a Pro para tener un fondo mayor.
+Sin medidores ni facturas sorpresa. Cada plan es un mes de ese trabajo. Cuando el mes se acaba, se renueva. ¿Necesitas más espacio antes? Pasa a Pro.
 
-- **Asignación Base** (30 días móviles) - 600 conversaciones, 2 compilaciones en segundo plano, 40 notas de voz (o 30 minutos), respuestas habladas de hasta 20.000 caracteres, 30 minutos de llamadas en vivo. Las notas de voz tienen un tope de 60 segundos.
-- **Asignación Pro** (30 días móviles) - 1800 conversaciones, 6 compilaciones en segundo plano, 80 notas de voz (o 60 minutos), respuestas habladas de hasta 60.000 caracteres, 90 minutos de llamadas en vivo. Las notas de voz tienen un tope de 120 segundos.
+**Base, cada mes**
 
-## Titulares de $LUNA9
+- 600 conversaciones para dar forma al trabajo
+- 2 trabajos que terminan mientras no estás
+- 40 notas de voz, o 30 minutos hablando
+- Respuestas habladas, hasta 20.000 caracteres
+- 30 minutos de llamadas en vivo
+- 25 imágenes hechas para ti
+- 500 MB para guardar tus archivos
+- Cada nota de voz puede durar 60 segundos
 
-Conecta una billetera en Robinhood Chain. Tener tokens desbloquea el beneficio correspondiente.
+**Pro, cada mes**
 
-- 1.000 $LUNA9 — 20 verificaciones de antecedentes al mes (próximamente). La asignación está reservada; las verificaciones aún no están activas.
-- 200.000 $LUNA9 — plan Base.
-- 1.000.000 $LUNA9 — plan Pro.
+- 1.800 conversaciones para dar forma al trabajo
+- 6 trabajos que terminan mientras no estás
+- 80 notas de voz, o 60 minutos hablando
+- Respuestas habladas, hasta 60.000 caracteres
+- 90 minutos de llamadas en vivo
+- 75 imágenes hechas para ti
+- 1,5 GB para guardar tus archivos
+- Cada nota de voz puede durar 120 segundos
 
-Una billetera con menos de 1.000 $LUNA9 puede iniciar sesión igualmente. Entonces se aplica el muro de pago de Stripe, igual que una cuenta de Google sin pagar.
+## Ten $LUNA9
+
+Conecta una billetera en Robinhood Chain. El saldo que tienes incluye el plan correspondiente.
+
+- 1.000 $LUNA9 - 20 chequeos al mes, próximamente. Ese cupo está reservado. Los chequeos aún no están disponibles.
+- 200.000 $LUNA9 - Base incluido.
+- 1.000.000 $LUNA9 - Pro incluido.
+
+Con menos de 1.000 $LUNA9 puedes iniciar sesión y pagar con tarjeta.
