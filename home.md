@@ -1,8 +1,4 @@
-# Call or text your agentic dev.
-
-Closed betaOpen beta starts Oct 1st.
-
-# Call or text your agentic dev.
+# Tell Luna9 your business needs and it builds it
 
 An online business for solo operators who want to grow.
 
@@ -95,4 +91,4 @@ Closed beta. Open beta starts Oct 1st. [Create an account](https://luna9.space/s
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-09-30; live page: https://luna9.space*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-01; live page: https://luna9.space*
