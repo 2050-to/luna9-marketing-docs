@@ -1,6 +1,6 @@
 # Tell Luna9 your business needs and it builds it
 
-Closed beta now · open beta October 1
+Open beta - now live
 
 # Tell Luna9 your business needs and it builds it
 
@@ -119,9 +119,9 @@ Yearly
 
 Text and voice notes.
 
-$25a month
+$30a month
 
-or $250 a year
+or $300 a year
 
 -   Say what you need by text or voice note
 -   It plans, codes, tests, and ships
@@ -163,11 +163,11 @@ You speak what you need. It asks clarifying questions, then plans, codes, tests,
 
 ### How much does it cost?
 
-Base is $25 a month or $250 a year (text and voice notes). Pro is $100 a month or $1,000 a year (includes live calls). No metered billing, no surprise bills.
+Base is $30 a month or $300 a year (text and voice notes). Pro is $100 a month or $1,000 a year (includes live calls). No metered billing, no surprise bills.
 
 ### Can I use it today?
 
-Closed beta. Open beta starts Oct 1st. [Create an account](https://luna9.space/signup) and start. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
+Open beta - now live. [Create an account](https://luna9.space/signup) and start. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
 
 ## What are we building today?
 

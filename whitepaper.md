@@ -36,13 +36,13 @@ These operators are looking into better tools and automations. But no one serves
 
 ### Timeline
 
--   Open Beta: launching October 1st.
+-   Open Beta: now live.
 -   v1 Release: November/December
 -   v2 Release: Q1 2027
 
 ## Pricing Model
 
-**An entry level plan: $25 per month, $250 per year.**
+**An entry level plan: $30 per month, $300 per year.**
 
 This plan keeps voice notes and text but not phone calls.
 

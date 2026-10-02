@@ -39,13 +39,13 @@ The large players have no incentive to cater to this market, but we do.
 
 ### Timeline
 
-- Open Beta: launching October 1st. 
+- Open Beta: now live. 
 - v1 Release: November/December
 - v2 Release: Q1 2027
 
 ## Pricing Model
 
-**An entry level plan: $25 per month, $250 per year (10x monthly).**
+**An entry level plan: $30 per month, $300 per year (10x monthly).**
 This plan keeps voice notes and text but not phone calls.
 
 **A premium plan: $100 per month, $1,000 per year**
