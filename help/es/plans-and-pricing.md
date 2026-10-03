@@ -9,7 +9,7 @@ Los precios están en [Planes y precios](https://luna9.space/pricing/). El pago 
 
 ## Planes con tarjeta
 
-- **Base** - $25 / mes o $250 / año. Suficiente para llevar el trabajo por texto, voz y una llamada.
+- **Base** - $30 / mes o $300 / año. Suficiente para llevar el trabajo por texto, voz y una llamada.
 - **Pro** - $100 / mes o $1.000 / año. El mismo trabajo, con más espacio para hablar y para construir.
 
 El chat y las llamadas están en Base y Pro. Inicia sesión y luego elige un plan en Ajustes.

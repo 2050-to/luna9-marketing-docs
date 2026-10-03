@@ -9,7 +9,7 @@ Prices are on [Plans and pricing](https://luna9.space/pricing/). Checkout is in 
 
 ## Card plans
 
-- **Base** - $25 / month or $250 / year. Enough to run the work by text, voice, and a call.
+- **Base** - $30 / month or $300 / year. Enough to run the work by text, voice, and a call.
 - **Pro** - $100 / month or $1,000 / year. The same work, with more room to talk and to build.
 
 Chat and calls are on Base and Pro. Sign in, then choose a plan in Settings.
