@@ -16,6 +16,18 @@ Chat and calls are on Base and Pro. Sign in, then choose a plan in Settings.
 
 No meters and no surprise bills. Each plan is a month of that work. When the month runs out, it refills. Need more room before then? Move to Pro.
 
+**Included with Base**
+
+Pro is the same work, with more room.
+
+- Build
+- Host
+- Process Payments - 0% fee
+- Generate Images
+- Modify and Maintain
+- Email Waitlists
+- Bring Your Own Domain - free
+
 **Base, each month**
 
 - 600 conversations to shape the work

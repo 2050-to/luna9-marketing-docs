@@ -16,6 +16,18 @@ El chat y las llamadas están en Base y Pro. Inicia sesión y luego elige un pla
 
 Sin medidores ni facturas sorpresa. Cada plan es un mes de ese trabajo. Cuando el mes se acaba, se renueva. ¿Necesitas más espacio antes? Pasa a Pro.
 
+**Incluido con Base**
+
+Pro es el mismo trabajo, con más espacio.
+
+- Construir
+- Alojar
+- Procesar pagos - 0% de comisión
+- Generar imágenes
+- Modificar y mantener
+- Listas de espera por correo
+- Trae tu propio dominio - gratis
+
 **Base, cada mes**
 
 - 600 conversaciones para dar forma al trabajo
