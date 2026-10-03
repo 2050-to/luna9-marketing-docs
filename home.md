@@ -111,41 +111,51 @@ Ready. Live. I'll ping you if it goes over 2k.
 
 ## What it costs
 
-Monthly
-
-Yearly
-
 ### Base
 
-Text and voice notes.
+$30 / month
 
-$30a month
+or $300 / year
 
-or $300 a year
+[Buy Base](https://luna9.space/login)
 
--   Say what you need by text or voice note
--   It plans, codes, tests, and ships
--   It maintains what it shipped
+Enough to run the work by text, voice, and a call.
 
-[Create an account](https://luna9.space/signup)
-
-Includes live calls
+-   Build
+-   Host
+-   Process Payments - 0% fee
+-   Generate Images
+-   Modify and Maintain
+-   Email Waitlists
+-   Bring Your Own Domain - free
 
 ### Pro
 
-For daily builders who want to talk it through.
+$100 / month
 
-$100a month
+or $1,000 / year
 
-or $1,000 a year
+[Buy Pro](https://luna9.space/login)
 
--   Everything in Base
--   Live calls with Luna Nine
--   Same day work, same day answer
+The same work, with more room to talk and to build.
 
-[Create an account](https://luna9.space/signup)
+-   Build
+-   Host
+-   Process Payments - 0% fee
+-   Generate Images
+-   Modify and Maintain
+-   Email Waitlists
+-   Bring Your Own Domain - free
 
-No metered billing, no surprise bills.
+### Hold $LUNA9
+
+Connect a wallet on Robinhood Chain. The balance you hold includes the matching plan.
+
+-   1,000 $LUNA9 - 20 checks a month, coming soon. That room is set aside. Checks are not available yet.
+-   200,000 $LUNA9 - Base included.
+-   1,000,000 $LUNA9 - Pro included.
+
+Under 1,000 $LUNA9, you can still sign in and pay by card.
 
 ## Questions
 

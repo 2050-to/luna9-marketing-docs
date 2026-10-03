@@ -22,7 +22,7 @@ The team
 
 Founders who ship their own products and guide the technical decisions - not coaches who only talk about building.
 
-![](assets/aj.png)
+![](assets/aj.jpg)
 
 ### AJ
 
