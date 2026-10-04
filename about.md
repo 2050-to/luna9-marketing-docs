@@ -1,16 +1,16 @@
-# One agent that owns the loop.
+# A site builder you can talk to.
 
 ## What it is
 
-Luna Nine is a voice-first, done-for-you software service for solo operators: one agent that plans, builds, deploys, maintains, and reports on your software - in plain words, on call 24/7. You say what you need; it owns the work end to end. ("Imagine, speak, ship.")
+Luna Nine is a site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it. Easy to start, fast to ship, and it stays on the site after launch.
 
 ## Why it was built
 
-27.2M US businesses have no employees - one person running the whole operation - but the software market serves teams. SaaS vendors chase big contracts, so a $99/mo customer with a niche need sits below the serve line; the alternatives are a $50k agency or becoming your own maintenance department. AI made building cheap, but owning software - deploy, maintain, observe, evolve - never moved. For the solo operator, software isn't a tool problem, it's a person problem: the first hire that isn't human.
+Most site builders hand you a draft and leave. Hosting, fixes, and updates become your job. Luna Nine keeps the site: it ships it, watches it, and tells you when something needs you.
 
 ## How it works
 
-One sentence in, working product out: you speak what you need -> it asks clarifying questions -> a plan -> code -> tests -> deploy -> CI green, no hand-holding. A control dial runs both ends - hands-off execution (self-correcting, multi-tool turns) or hands-on (plan approval, every mutation a git commit, interrupt any time). It's voice both ways - a five-minute call beats a ticket or a chat thread - and every session ends in a retrospective: lessons become rules and tests, so the next session is smarter than the last. Flat retainer: Base $30/mo or $300/yr (text and voice notes), Pro $100/mo or $1,000/yr (includes live calls). No metered billing, no surprise bills.
+You say the site you need, in a message or a voice note. It asks a few questions, then plans, builds, tests, and ships. You can approve the plan or stay hands-off. After launch it maintains the site. Base is $30/mo or $300/yr (text and voice notes). Pro is $100/mo or $1,000/yr (includes live calls). No metered billing, no surprise bills.
 
 ## Community
 
@@ -65,4 +65,4 @@ Ben Spak is CEO of Luna Nine, owning marketing, positioning, and partnerships. A
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-03; live page: https://luna9.space/about*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-04; live page: https://luna9.space/about*

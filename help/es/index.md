@@ -3,7 +3,7 @@ title: Ayuda de Luna Nine
 description: Cómo registrarte, elegir un plan, hacer una llamada y contactarnos.
 ---
 
-Luna Nine es un agente que prioriza la voz. Lo llamas o le escribes. Planifica el trabajo, lo construye y te avisa cuando está listo.
+Luna Nine es un creador de sitios con el que puedes hablar. Dices el sitio que necesitas. Lo planifica, lo construye, lo publica y lo mantiene.
 
 ## Artículos
 

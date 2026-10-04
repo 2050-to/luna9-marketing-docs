@@ -1,10 +1,10 @@
 # Luna 9
 
-Voice first, agent native.
+A site builder you can talk to.
 
-**Imagine a developer that knows your business, is always awake, and takes care of deploying and maintenance.**
+**Luna Nine is a site builder you can talk to. It plans, builds, ships, and maintains your site.**
 
-**_A mere five years ago this would have been an entire Managed Service Provider offer._**
+**_It is easy to use, fast to ship, and reliable after launch._**
 
 ### It's now an app on your phone, with a voice interface.
 
@@ -175,4 +175,4 @@ Waitlist is live at [luna9.space](https://luna9.space).
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-03; live page: https://luna9.space/whitepaper*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-04; live page: https://luna9.space/whitepaper*

@@ -3,7 +3,7 @@ title: Luna Nine Help
 description: How to sign up, pick a plan, make a call, and reach us.
 ---
 
-Luna Nine is a voice-first agent. You call or text it. It plans the work, builds it, and rings you when it is done.
+Luna Nine is a site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it.
 
 ## Articles
 

@@ -1,30 +1,28 @@
-# Tell Luna9 your business needs and it builds it
+# A site builder you can talk to
 
 Open beta - now live
 
-# Tell Luna9 your business needs and it builds it
+# A site builder you can talk to
 
-An online business for solo operators who want to grow.
-
-Luna Nine plans the work, builds it, ships it, and rings you when it is done.
+A site builder that plans, builds, ships and maintains your site.
 
 [Create an account](https://luna9.space/signup)[Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
 
--   Text and voice notes
--   No metered billing
--   No surprise bills
+-   Reliable
+-   Fast
+-   Easy to use
 
-Order volume watchLive
+Bakery siteLive
 
-**You:** Watch our order volume, alert suppliers if it hits 2k orders, ping me when that happens.
-
-9:42 AM
-
-Got it. Order volume, suppliers at 2k, and a ping. Want a dashboard, just the alerts, or both?
+**You:** I need a site for the bakery. Menu, hours, and a way to take cake orders.
 
 9:42 AM
 
-**You:** Just the dashboard, ring my phone if it goes over 2k.
+Got it. Menu, hours, and cake orders. One page, or a shop with checkout?
+
+9:42 AM
+
+**You:** One page. Tell me when it is live.
 
 9:43 AM
 
@@ -36,60 +34,60 @@ later that day
 
 Voice call · 5 min
 
-Ready. Live. I'll ping you if it goes over 2k.
+Ready. Live. I'll keep it up.
 
 5:14 PM
 
 ## What it does
 
-### Builds
+### Reliable
 
-You say what you need. It plans, codes, and tests.
+It keeps the site up after launch and tells you when something needs you.
 
-### Deploys
+### Fast
 
-It ships the work live.
+It plans, builds, and ships the site the same day.
 
-### Maintains
+### Easy to use
 
-It stays on the job and rings you when it is done.
+Tell it the site you want, in a message or a voice note.
 
 ## How a job works
 
 1.  1
     
-    ### You speak what you need
+    ### You say the site you need
     
-    A voice note or a message in plain words. No spec, no ticket, no standup.
+    A message or a voice note. No spec, no ticket.
     
 2.  2
     
-    ### It asks the clarifying questions
+    ### It ships it the same day
     
-    Then it plans, codes, tests, and deploys - and you can stay hands-off or approve the plan and interrupt any time.
+    It asks a few questions, then plans, builds, and ships. You can stay hands-off or approve the plan.
     
 3.  3
     
-    ### It stays on and calls you
+    ### It keeps the site up
     
-    The work is live and watched. It rings you when it is done, and when something needs you.
+    The site stays live. It tells you when the work is done, and when something needs you.
     
 
 ## The work, in full
 
-One voice note on Monday, a live dashboard and a phone call the same day.
+One message in the morning, a live site the same day.
 
-Order volume watchLive
+Bakery siteLive
 
-**You:** Watch our order volume, alert suppliers if it hits 2k orders, ping me when that happens.
-
-9:42 AM
-
-Got it. Order volume, suppliers at 2k, and a ping. Want a dashboard, just the alerts, or both?
+**You:** I need a site for the bakery. Menu, hours, and a way to take cake orders.
 
 9:42 AM
 
-**You:** Just the dashboard, ring my phone if it goes over 2k.
+Got it. Menu, hours, and cake orders. One page, or a shop with checkout?
+
+9:42 AM
+
+**You:** One page. Tell me when it is live.
 
 9:43 AM
 
@@ -101,7 +99,7 @@ later that day
 
 Voice call · 5 min
 
-Ready. Live. I'll ping you if it goes over 2k.
+Ready. Live. I'll keep it up.
 
 5:14 PM
 
@@ -161,15 +159,15 @@ Under 1,000 $LUNA9, you can still sign in and pay by card.
 
 ### What is it?
 
-Luna Nine is a voice-first, done-for-you software service. You say what you need; it plans, builds, ships, and rings you when it is done.
+A site builder you can talk to. It plans, builds, ships, and maintains your site.
 
 ### Who is it for?
 
-Solo operators. The software market serves teams; this is the first hire that is not human.
+Anyone who wants a site without learning a builder or hiring an agency.
 
 ### How does a job work?
 
-You speak what you need. It asks clarifying questions, then plans, codes, tests, and deploys. You can stay hands-off or approve the plan and interrupt any time.
+You say the site you need. It asks a few questions, then plans, builds, and ships. You can stay hands-off or approve the plan.
 
 ### How much does it cost?
 
@@ -179,7 +177,7 @@ Base is $30 a month or $300 a year (text and voice notes). Pro is $100 a month o
 
 Open beta - now live. [Create an account](https://luna9.space/signup) and start. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
 
-## What are we building today?
+## What site are we building today?
 
 Create an account at [luna9.space/signup](https://luna9.space/signup). Already have an account? [Sign in](https://luna9.space/login).
 
@@ -187,4 +185,4 @@ Create an account at [luna9.space/signup](https://luna9.space/signup). Already h
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-03; live page: https://luna9.space*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-04; live page: https://luna9.space*

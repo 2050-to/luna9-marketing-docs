@@ -1,10 +1,10 @@
 # Luna 9
 
-Voice first, agent native. 
+A site builder you can talk to.
 
-**Imagine a developer that knows your business, is always awake, and takes care of deploying and maintenance.**
+**Luna Nine is a site builder you can talk to. It plans, builds, ships, and maintains your site.**
 
-***A mere five years ago this would have been an entire Managed Service Provider offer.***
+***It is easy to use, fast to ship, and reliable after launch.***
 
 #### It's now an app on your phone, with a voice interface. 
 
