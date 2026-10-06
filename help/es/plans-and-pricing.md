@@ -10,7 +10,7 @@ Los precios están en [Planes y precios](https://luna9.space/pricing/). El pago 
 ## Planes con tarjeta
 
 - **Base** - $30 / mes o $300 / año. Suficiente para llevar el trabajo por texto, voz y una llamada.
-- **Pro** - $100 / mes o $1.000 / año. El mismo trabajo, con más espacio para hablar y para construir.
+- **Pro** - $100 / mes o $1,000 / año. El mismo trabajo, con más espacio para hablar y para construir.
 
 El chat y las llamadas están en Base y Pro. Inicia sesión y luego elige un plan en Ajustes.
 
@@ -33,7 +33,7 @@ Pro es el mismo trabajo, con más espacio.
 - 600 conversaciones para dar forma al trabajo
 - 2 trabajos que terminan mientras no estás
 - 40 notas de voz, o 30 minutos hablando
-- Respuestas habladas, hasta 20.000 caracteres
+- Respuestas habladas, hasta 20,000 caracteres
 - 30 minutos de llamadas en vivo
 - 25 imágenes hechas para ti
 - 500 MB para guardar tus archivos
@@ -41,21 +41,21 @@ Pro es el mismo trabajo, con más espacio.
 
 **Pro, cada mes**
 
-- 1.800 conversaciones para dar forma al trabajo
+- 1,800 conversaciones para dar forma al trabajo
 - 6 trabajos que terminan mientras no estás
 - 80 notas de voz, o 60 minutos hablando
-- Respuestas habladas, hasta 60.000 caracteres
+- Respuestas habladas, hasta 60,000 caracteres
 - 90 minutos de llamadas en vivo
 - 75 imágenes hechas para ti
-- 1,5 GB para guardar tus archivos
+- 1.5 GB para guardar tus archivos
 - Cada nota de voz puede durar 120 segundos
 
 ## Ten $LUNA9
 
 Conecta una billetera en Robinhood Chain. El saldo que tienes incluye el plan correspondiente.
 
-- 1.000 $LUNA9 - 20 chequeos al mes, próximamente. Ese cupo está reservado. Los chequeos aún no están disponibles.
-- 200.000 $LUNA9 - Base incluido.
-- 1.000.000 $LUNA9 - Pro incluido.
+- 1,000 $LUNA9 - 20 chequeos al mes, próximamente. Ese cupo está reservado. Los chequeos aún no están disponibles.
+- 200,000 $LUNA9 - Base incluido.
+- 1,000,000 $LUNA9 - Pro incluido.
 
-Con menos de 1.000 $LUNA9 puedes iniciar sesión y pagar con tarjeta.
+Con menos de 1,000 $LUNA9 puedes iniciar sesión y pagar con tarjeta.

@@ -3,7 +3,7 @@ title: Conceptos básicos de llamadas de voz
 description: Cómo funcionan las llamadas en vivo, cómo permitir el micrófono y cómo elegir una voz.
 ---
 
-Las llamadas en vivo están en Base y Pro: una suscripción con tarjeta, o una billetera que tenga 200.000 $LUNA9 (Base) o 1.000.000 $LUNA9 (Pro). Base incluye 30 minutos de llamadas en vivo en cada ventana móvil. Pro incluye 120.
+Las llamadas en vivo están en Base y Pro: una suscripción con tarjeta, o una billetera que tenga 200,000 $LUNA9 (Base) o 1,000,000 $LUNA9 (Pro). Base incluye 30 minutos de llamadas en vivo en cada ventana móvil. Pro incluye 120.
 
 ## Iniciar una llamada
 
