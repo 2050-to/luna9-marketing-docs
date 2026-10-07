@@ -65,4 +65,4 @@ Ben Spak is CEO of Luna Nine, owning marketing, positioning, and partnerships. A
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-06; live page: https://luna9.space/about*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-07; live page: https://luna9.space/about*
