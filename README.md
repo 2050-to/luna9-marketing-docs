@@ -11,6 +11,9 @@ next sync from [2050-to/luna9](https://github.com/2050-to/luna9).
 | About | [about.md](about.md) | https://luna9.space/about |
 | Media pack | [media.md](media.md) | https://luna9.space/media |
 | Whitepaper | [whitepaper.md](whitepaper.md) | https://luna9.space/whitepaper |
+| Use cases | [solutions/use-cases.md](solutions/use-cases.md) | https://luna9.space/solutions/use-cases |
+| By company size | [solutions/company-size.md](solutions/company-size.md) | https://luna9.space/solutions/company-size |
+| By industry | [solutions/industry.md](solutions/industry.md) | https://luna9.space/solutions/industry |
 | Help | [help/](help/) | https://luna9.space/help/ |
 
 Graphics live in `assets/` and are free to repost. Keep the Luna9 mark;
