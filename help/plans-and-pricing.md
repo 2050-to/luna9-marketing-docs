@@ -22,7 +22,7 @@ Pro is the same work, with more room.
 
 - Build
 - Host
-- Process Payments - 0% fee
+- Process Payments - 3% fee (Stripe)
 - Generate Images
 - Modify and Maintain
 - Email Waitlists

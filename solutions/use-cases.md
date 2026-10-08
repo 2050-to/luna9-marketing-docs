@@ -22,6 +22,22 @@ It stays
 
 The site stays live. It tells you when the work is done, and when something needs you.
 
+ Bakery 
+
+Bakery
+
+Live
+
+-   Menu
+-   Hours
+-   Cake orders
+
+Morning bun
+
+Hours: 7 AM to 2 PM
+
+Order a cake
+
 ## Appointments and deposits
 
 A service business that takes bookings.
@@ -37,6 +53,19 @@ A landing page, booking, deposits, a scheduler, and a place to keep clients.
 It stays
 
 It keeps the site, and you can change it after launch.
+
+ Appointments 
+
+Appointments
+
+Book a time
+
+-   Tuesday morning
+-   Thursday afternoon
+
+Deposit
+
+A deposit holds the time
 
 ## A shop that takes orders
 
@@ -54,13 +83,29 @@ It stays
 
 It hosts the shop and tells you when something needs you.
 
+ Shop 
+
+Shop
+
+Catalog
+
+Product
+
+Inventory
+
+Checkout
+
+Tracking number
+
+You type this when an order ships
+
 ## Included
 
 The same work on Base and Pro. [Pricing](https://luna9.space/pricing)
 
 -   Build
 -   Host
--   Process Payments - 0% fee
+-   Process Payments - 3% fee (Stripe)
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists

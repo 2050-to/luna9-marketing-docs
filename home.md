@@ -121,7 +121,7 @@ Enough to run the work by text, voice, and a call.
 
 -   Build
 -   Host
--   Process Payments - 0% fee
+-   Process Payments - 3% fee (Stripe)
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists
@@ -139,7 +139,7 @@ The same work, with more room to talk and to build.
 
 -   Build
 -   Host
--   Process Payments - 0% fee
+-   Process Payments - 3% fee (Stripe)
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists

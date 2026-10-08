@@ -22,6 +22,22 @@ It stays
 
 Base is enough to run the work.
 
+ Bakery 
+
+Bakery
+
+Base
+
+-   Menu
+-   Hours
+-   Cake orders
+
+Morning bun
+
+Hours: 7 AM to 2 PM
+
+Order a cake
+
 ## A small shop the owner still runs
 
 The owner still runs the shop.
@@ -37,6 +53,22 @@ The same site: a page, appointments and deposits, or a shop that takes orders.
 It stays
 
 Pro is more builds and more room to talk in that month. It is not a different product.
+
+ Bakery 
+
+Bakery
+
+Pro
+
+-   Menu
+-   Hours
+-   Cake orders
+
+Morning bun
+
+Hours: 7 AM to 2 PM
+
+Order a cake
 
 ## A larger company
 
@@ -54,13 +86,29 @@ It stays
 
 Luna Nine is not a department tool.
 
+ Bakery 
+
+Bakery
+
+One site, the same way
+
+-   Menu
+-   Hours
+-   Cake orders
+
+Morning bun
+
+Hours: 7 AM to 2 PM
+
+Order a cake
+
 ## Included
 
 The same work on Base and Pro. [Pricing](https://luna9.space/pricing)
 
 -   Build
 -   Host
--   Process Payments - 0% fee
+-   Process Payments - 3% fee (Stripe)
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists

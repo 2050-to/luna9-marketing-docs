@@ -10,13 +10,58 @@ AutoSubmit is its own product. $25 a month at autosubmit.to.
 
 You write the launch once. The extension fills Product Hunt, Peerlist, and the rest of a catalog of 235 directories. Each row shows its Ahrefs Domain Rating.
 
+ Campaign 
+
+Campaign
+
+Homepage
+
+example.com
+
+Tagline
+
+One profile for the directories
+
+Description
+
+The extension fills each form from this profile.
+
 ## Where each listing stands
 
 Each directory is draft, ready, submitted, or live. Domain Rating is tracked against the campaign baseline.
 
+ Directories 
+
+-   Draft
+-   Ready
+-   Submitted
+-   Live
+
+-   Product HuntLive
+-   PeerlistSubmitted
+-   The rest of the catalogReady
+
+Domain Rating +4
+
 ## Another product
 
 A second product gets its own profile and its own campaign.
+
+ Another product 
+
+Another product
+
+Homepage
+
+another.example
+
+Tagline
+
+Another product
+
+Description
+
+Its own profile and its own campaign.
 
 On AutoSubmit's own campaign, Domain Rating moved +4.
 

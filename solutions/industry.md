@@ -22,6 +22,19 @@ It stays
 
 It keeps the site up after it ships.
 
+ Appointments 
+
+Appointments
+
+Book a time
+
+-   Tuesday morning
+-   Thursday afternoon
+
+Deposit
+
+A deposit holds the time
+
 ## Product businesses
 
 A catalog, checkout, and inventory.
@@ -37,6 +50,22 @@ A catalog, checkout, inventory, and a tracking number you type when an order shi
 It stays
 
 It hosts the shop. You type a tracking number when an order ships.
+
+ Shop 
+
+Shop
+
+Catalog
+
+Product
+
+Inventory
+
+Checkout
+
+Tracking number
+
+You type this when an order ships
 
 ## A simple page
 
@@ -54,13 +83,29 @@ It stays
 
 The site stays live. It tells you when the work is done, and when something needs you.
 
+ Bakery 
+
+Bakery
+
+Live
+
+-   Menu
+-   Hours
+-   Cake orders
+
+Morning bun
+
+Hours: 7 AM to 2 PM
+
+Order a cake
+
 ## Included
 
 The same work on Base and Pro. [Pricing](https://luna9.space/pricing)
 
 -   Build
 -   Host
--   Process Payments - 0% fee
+-   Process Payments - 3% fee (Stripe)
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists

@@ -10,6 +10,12 @@ A message or a voice note. The bakery below is one job, start to finish.
 
 I need a site for the bakery. Menu, hours, and a way to take cake orders.
 
+Bakery site
+
+**You:** I need a site for the bakery. Menu, hours, and a way to take cake orders.
+
+9:42 AM
+
 ## Same day
 
 Got it. Menu, hours, and cake orders. One page, or a shop with checkout?
@@ -18,9 +24,35 @@ One page. Tell me when it is live.
 
 Got it, building.
 
+Bakery site
+
+Got it. Menu, hours, and cake orders. One page, or a shop with checkout?
+
+9:42 AM
+
+Got it, building.
+
+9:43 AM
+
 ## Later that day
 
 Ready. Live. I'll keep it up.
+
+ Bakery 
+
+Bakery
+
+Live
+
+-   Menu
+-   Hours
+-   Cake orders
+
+Morning bun
+
+Hours: 7 AM to 2 PM
+
+Order a cake
 
 ## Included
 
@@ -28,7 +60,7 @@ The same work on Base and Pro. [Pricing](https://luna9.space/pricing)
 
 -   Build
 -   Host
--   Process Payments - 0% fee
+-   Process Payments - 3% fee (Stripe)
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists

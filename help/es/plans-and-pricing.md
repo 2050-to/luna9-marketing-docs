@@ -22,7 +22,7 @@ Pro es el mismo trabajo, con más espacio.
 
 - Construir
 - Alojar
-- Procesar pagos - 0% de comisión
+- Procesar pagos - 3% de comisión (Stripe)
 - Generar imágenes
 - Modificar y mantener
 - Listas de espera por correo

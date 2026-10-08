@@ -10,13 +10,55 @@ Links, messages, a name, usernames. Included with Base and Pro.
 
 You paste their site and a few emails. You ask whether you can rely on them to deliver.
 
+ Report 
+
+Sources
+
+Their site and a few emails
+
+Question
+
+Can I rely on them to deliver?
+
+Written from public sources.
+
+Download
+
 ## A contractor
 
 You paste a portfolio and the messages you have. You ask whether the public record matches.
 
+ Report 
+
+Sources
+
+A portfolio and the messages
+
+Question
+
+Does the public record match?
+
+Written from public sources.
+
+Download
+
 ## A partner
 
 You paste a name and the links you found. You ask what public sources say before you go further.
+
+ Report 
+
+Sources
+
+A name and the links
+
+Question
+
+What do public sources say?
+
+Written from public sources.
+
+Download
 
 Investor, lead, contractor, cofounder, vendor, or advisor.
 
