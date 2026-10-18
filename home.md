@@ -6,7 +6,7 @@ Open beta - now live
 
 A site builder that plans, builds, ships and maintains your site.
 
-[Create an account](https://luna9.space/signup)[Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
+[Create an account](https://lunanineai.com/signup)[Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
 
 -   Reliable
 -   Fast
@@ -115,7 +115,7 @@ $30 / month
 
 or $300 / year
 
-[Buy Base](https://luna9.space/login)
+[Buy Base](https://lunanineai.com/login)
 
 Enough to run the work by text, voice, and a call.
 
@@ -133,7 +133,7 @@ $100 / month
 
 or $1,000 / year
 
-[Buy Pro](https://luna9.space/login)
+[Buy Pro](https://lunanineai.com/login)
 
 The same work, with more room to talk and to build.
 
@@ -175,14 +175,14 @@ Base is $30 a month or $300 a year (text and voice notes). Pro is $100 a month o
 
 ### Can I use it today?
 
-Open beta - now live. [Create an account](https://luna9.space/signup) and start. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
+Open beta - now live. [Create an account](https://lunanineai.com/signup) and start. The [Telegram group](https://t.me/+gSw44BGSfD0wY2Fh) is live now.
 
 ## What site are we building today?
 
-Create an account at [luna9.space/signup](https://luna9.space/signup). Already have an account? [Sign in](https://luna9.space/login).
+Create an account at [luna9.space/signup](https://lunanineai.com/signup). Already have an account? [Sign in](https://lunanineai.com/login).
 
-[Create an account](https://luna9.space/signup)[Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
+[Create an account](https://lunanineai.com/signup)[Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-16; live page: https://luna9.space*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com*

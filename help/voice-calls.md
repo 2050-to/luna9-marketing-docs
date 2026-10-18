@@ -17,7 +17,7 @@ If the call control is dimmed, the account is not subscribed. See [Plans and pri
 
 The microphone turns on only while you are on a call or sending a voice note.
 
-If access is blocked, allow the mic for luna9.space, then try again. If another app is using the microphone, close that app first. If this device has no microphone, calls cannot capture audio here.
+If access is blocked, allow the mic for lunanineai.com, then try again. If another app is using the microphone, close that app first. If this device has no microphone, calls cannot capture audio here.
 
 ## Which voice Luna uses
 

@@ -12,4 +12,4 @@ Luna Nine is a site builder you can talk to. You say the site you need. It plans
 - [Voice-call basics](/help/voice-calls/) — live calls, microphone, and voice pick
 - [Support](/help/support/) — how to reach us
 
-The product lives at [luna9.space](https://luna9.space/).
+The product lives at [lunanineai.com](https://lunanineai.com/).

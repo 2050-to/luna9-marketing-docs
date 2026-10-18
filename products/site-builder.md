@@ -4,7 +4,7 @@ You talk to it. It plans, builds, ships, and keeps the site up.
 
 A message or a voice note. The bakery below is one job, start to finish.
 
-[Create an account](https://luna9.space/signup)
+[Create an account](https://lunanineai.com/signup)
 
 ## That morning
 
@@ -56,7 +56,7 @@ Order a cake
 
 ## Included
 
-The same work on Base and Pro. [Pricing](https://luna9.space/pricing)
+The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
 
 -   Build
 -   Host
@@ -101,11 +101,11 @@ Anyone who wants a site without learning a builder or hiring an agency.
 
 You say the site you need. It asks a few questions, then plans, builds, and ships. You can stay hands-off or approve the plan.
 
--   [Use cases](https://luna9.space/solutions/use-cases)
--   [AutoSubmit](https://luna9.space/products/autosubmit)
--   [BG Check](https://luna9.space/products/bgcheck)
--   [Pricing](https://luna9.space/pricing)
+-   [Use cases](https://lunanineai.com/solutions/use-cases)
+-   [AutoSubmit](https://lunanineai.com/products/autosubmit)
+-   [BG Check](https://lunanineai.com/products/bgcheck)
+-   [Pricing](https://lunanineai.com/pricing)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-16; live page: https://luna9.space/products/site-builder*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com/products/site-builder*

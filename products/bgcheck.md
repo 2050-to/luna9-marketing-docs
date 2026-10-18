@@ -4,7 +4,7 @@ Paste what you have about someone and ask one question. Luna Nine researches pub
 
 Links, messages, a name, usernames. Included with Base and Pro.
 
-[Create an account](https://luna9.space/signup)[bgcheck.luna9.space](https://bgcheck.luna9.space/)
+[Create an account](https://lunanineai.com/signup)[bgcheck.luna9.space](https://bgcheck.luna9.space/)
 
 ## A vendor
 
@@ -97,10 +97,10 @@ Background checks are included with Base and Pro.
 
 No credit used.
 
--   [Site Builder](https://luna9.space/products/site-builder)
--   [AutoSubmit](https://luna9.space/products/autosubmit)
--   [Pricing](https://luna9.space/pricing)
+-   [Site Builder](https://lunanineai.com/products/site-builder)
+-   [AutoSubmit](https://lunanineai.com/products/autosubmit)
+-   [Pricing](https://lunanineai.com/pricing)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-16; live page: https://luna9.space/products/bgcheck*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com/products/bgcheck*

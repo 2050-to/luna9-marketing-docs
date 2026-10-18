@@ -12,4 +12,4 @@ Luna Nine es un creador de sitios con el que puedes hablar. Dices el sitio que n
 - [Conceptos básicos de llamadas de voz](/help/es/voice-calls/) — llamadas en vivo, micrófono y elección de voz
 - [Soporte](/help/es/support/) — cómo contactarnos
 
-El producto vive en [luna9.space](https://luna9.space/).
+El producto vive en [lunanineai.com](https://lunanineai.com/).

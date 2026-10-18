@@ -4,7 +4,7 @@ Two kinds of business, plus a simple page.
 
 These are examples of the two kits, plus a one-page site. They are not separate products.
 
-[Create an account](https://luna9.space/signup)
+[Create an account](https://lunanineai.com/signup)
 
 ## Service businesses
 
@@ -101,7 +101,7 @@ Order a cake
 
 ## Included
 
-The same work on Base and Pro. [Pricing](https://luna9.space/pricing)
+The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
 
 -   Build
 -   Host
@@ -146,10 +146,10 @@ A landing page, booking, deposits, a scheduler, and a place to keep clients.
 
 Yes. Menu, hours, and cake orders.
 
--   [Use cases](https://luna9.space/solutions/use-cases)
--   [By company size](https://luna9.space/solutions/company-size)
--   [Pricing](https://luna9.space/pricing)
+-   [Use cases](https://lunanineai.com/solutions/use-cases)
+-   [By company size](https://lunanineai.com/solutions/company-size)
+-   [Pricing](https://lunanineai.com/pricing)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-16; live page: https://luna9.space/solutions/industry*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com/solutions/industry*

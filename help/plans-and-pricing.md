@@ -5,7 +5,7 @@ description: Base, Pro, card billing, and $LUNA9 holder grants.
 
 One flat price. You say the site you need. Luna Nine plans it, builds it, ships it, and maintains it. Pay with a card, or connect a wallet that holds $LUNA9.
 
-Prices are on [Plans and pricing](https://luna9.space/pricing/). Checkout is in [Settings](https://luna9.space/app/settings/) after you sign in.
+Prices are on [Plans and pricing](https://lunanineai.com/pricing/). Checkout is in [Settings](https://lunanineai.com/app/settings/) after you sign in.
 
 ## Card plans
 

@@ -4,7 +4,7 @@ Say the site you need. Luna Nine plans it, builds it, ships it, and keeps it up.
 
 A message or a voice note. You can stay hands-off or approve the plan.
 
-[Create an account](https://luna9.space/signup)
+[Create an account](https://lunanineai.com/signup)
 
 ## A one-page site
 
@@ -101,7 +101,7 @@ You type this when an order ships
 
 ## Included
 
-The same work on Base and Pro. [Pricing](https://luna9.space/pricing)
+The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
 
 -   Build
 -   Host
@@ -146,10 +146,10 @@ No. You can stay hands-off or approve the plan.
 
 No. The same work. Pro is more room in the same month. Prices are on the pricing page.
 
--   [By company size](https://luna9.space/solutions/company-size)
--   [By industry](https://luna9.space/solutions/industry)
--   [Pricing](https://luna9.space/pricing)
+-   [By company size](https://lunanineai.com/solutions/company-size)
+-   [By industry](https://lunanineai.com/solutions/industry)
+-   [Pricing](https://lunanineai.com/pricing)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-16; live page: https://luna9.space/solutions/use-cases*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com/solutions/use-cases*

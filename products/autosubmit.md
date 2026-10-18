@@ -100,10 +100,10 @@ Submit 20 directories in the first week. If none go live and Domain Rating has n
 
 No. AutoSubmit is a separate product at autosubmit.to.
 
--   [Site Builder](https://luna9.space/products/site-builder)
--   [BG Check](https://luna9.space/products/bgcheck)
--   [Pricing](https://luna9.space/pricing)
+-   [Site Builder](https://lunanineai.com/products/site-builder)
+-   [BG Check](https://lunanineai.com/products/bgcheck)
+-   [Pricing](https://lunanineai.com/pricing)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-16; live page: https://luna9.space/products/autosubmit*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com/products/autosubmit*

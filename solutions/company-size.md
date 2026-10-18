@@ -4,7 +4,7 @@ Built for the person who runs the business.
 
 You do not learn a builder or hire an agency.
 
-[Create an account](https://luna9.space/signup)
+[Create an account](https://lunanineai.com/signup)
 
 ## One person
 
@@ -104,7 +104,7 @@ Order a cake
 
 ## Included
 
-The same work on Base and Pro. [Pricing](https://luna9.space/pricing)
+The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
 
 -   Build
 -   Host
@@ -149,10 +149,10 @@ The same work, with more room to talk and to build.
 
 Yes. The person who runs the site is still the user. Luna Nine is not a department tool.
 
--   [Use cases](https://luna9.space/solutions/use-cases)
--   [By industry](https://luna9.space/solutions/industry)
--   [Pricing](https://luna9.space/pricing)
+-   [Use cases](https://lunanineai.com/solutions/use-cases)
+-   [By industry](https://lunanineai.com/solutions/industry)
+-   [Pricing](https://lunanineai.com/pricing)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-16; live page: https://luna9.space/solutions/company-size*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com/solutions/company-size*

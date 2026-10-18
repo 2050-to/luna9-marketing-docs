@@ -8,7 +8,7 @@ A site builder you can talk to.
 
 #### It's now an app on your phone, with a voice interface. 
 
-![Banner](https://luna9.space/og-banner.png "Banner")
+![Banner](https://lunanineai.com/og-banner.png "Banner")
 
 ## What Luna 9 Does
 
@@ -115,4 +115,4 @@ The token and web3 will be deeply integrated into Luna Nine.
 
 ## Get Access
 
-Waitlist is live at [luna9.space](https://luna9.space).
+Waitlist is live at [lunanineai.com](https://lunanineai.com).

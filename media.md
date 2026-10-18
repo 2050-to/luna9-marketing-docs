@@ -2,7 +2,7 @@
 
 Download any graphic and share it. Keep the Luna9 mark. Don't rewrite the line on the image.
 
-Free to use. A link back to luna9.space is welcome, not required.
+Free to use. A link back to lunanineai.com is welcome, not required.
 
 ## Posts
 
@@ -82,4 +82,4 @@ Imagine, speak, ship.
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-16; live page: https://luna9.space/media*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com/media*

@@ -17,7 +17,7 @@ Si el control de llamada está atenuado, la cuenta no está suscrita. Consulta [
 
 El micrófono solo se enciende mientras estás en una llamada o enviando una nota de voz.
 
-Si el acceso está bloqueado, permite el micrófono para luna9.space e inténtalo de nuevo. Si otra aplicación está usando el micrófono, ciérrala primero. Si este dispositivo no tiene micrófono, las llamadas no pueden capturar audio aquí.
+Si el acceso está bloqueado, permite el micrófono para lunanineai.com e inténtalo de nuevo. Si otra aplicación está usando el micrófono, ciérrala primero. Si este dispositivo no tiene micrófono, las llamadas no pueden capturar audio aquí.
 
 ## Qué voz usa Luna
 
