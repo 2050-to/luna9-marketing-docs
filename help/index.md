@@ -1,9 +1,9 @@
 ---
-title: Luna Nine Help
+title: LunaNine Help
 description: How to sign up, pick a plan, make a call, and reach us.
 ---
 
-Luna Nine is a site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it.
+LunaNine is a site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it.
 
 ## Articles
 

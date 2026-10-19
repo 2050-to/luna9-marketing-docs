@@ -1,6 +1,6 @@
 ---
 title: Support
-description: How to reach Luna Nine.
+description: How to reach LunaNine.
 ---
 
 Email [hello@luna9.space](mailto:hello@luna9.space).

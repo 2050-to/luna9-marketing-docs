@@ -8,7 +8,7 @@ Las llamadas en vivo están en Base y Pro: una suscripción con tarjeta, o una b
 ## Iniciar una llamada
 
 1. Abre el chat.
-2. Elige **Llamar a Luna Nine**.
+2. Elige **Llamar a LunaNine**.
 3. Permite el micrófono cuando el navegador lo pida.
 
 Si el control de llamada está atenuado, la cuenta no está suscrita. Consulta [Planes y precios](/help/es/plans-and-pricing/).

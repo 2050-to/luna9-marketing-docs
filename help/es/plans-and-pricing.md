@@ -3,7 +3,7 @@ title: Planes y precios
 description: Base, Pro, pago con tarjeta y beneficios para titulares de $LUNA9.
 ---
 
-Un precio fijo. Dices el sitio que necesitas. Luna Nine lo planea, lo construye, lo publica y lo mantiene. Paga con tarjeta, o conecta una billetera que tenga $LUNA9.
+Un precio fijo. Dices el sitio que necesitas. LunaNine lo planea, lo construye, lo publica y lo mantiene. Paga con tarjeta, o conecta una billetera que tenga $LUNA9.
 
 Los precios están en [Planes y precios](https://lunanineai.com/pricing/). El pago se hace en [Ajustes](https://lunanineai.com/app/settings/) después de iniciar sesión.
 

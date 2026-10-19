@@ -8,7 +8,7 @@ Live calls are on Base and Pro: a card subscription, or a wallet that holds 200,
 ## Start a call
 
 1. Open chat.
-2. Choose **Call Luna Nine**.
+2. Choose **Call LunaNine**.
 3. Allow the microphone when the browser asks.
 
 If the call control is dimmed, the account is not subscribed. See [Plans and pricing](/help/plans-and-pricing/).

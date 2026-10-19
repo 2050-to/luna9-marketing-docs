@@ -1,6 +1,6 @@
 # BG Check
 
-Paste what you have about someone and ask one question. Luna Nine researches public sources and writes you a report.
+Paste what you have about someone and ask one question. LunaNine researches public sources and writes you a report.
 
 Links, messages, a name, usernames. Included with Base and Pro.
 
@@ -103,4 +103,4 @@ No credit used.
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-18; live page: https://lunanineai.com/products/bgcheck*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-19; live page: https://lunanineai.com/products/bgcheck*

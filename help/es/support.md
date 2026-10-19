@@ -1,6 +1,6 @@
 ---
 title: Soporte
-description: Cómo contactar a Luna Nine.
+description: Cómo contactar a LunaNine.
 ---
 
 Envía un correo a [hello@luna9.space](mailto:hello@luna9.space).
