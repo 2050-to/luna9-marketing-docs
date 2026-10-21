@@ -21,7 +21,7 @@ Sin medidores ni facturas sorpresa. Cada plan es un mes de ese trabajo. Cuando e
 
 - Construir
 - Alojar
-- Procesar pagos - 2% de comisión + Stripe
+- Procesar pagos - 5% de comisión (2% de plataforma + 3% de Stripe)
 - Generar imágenes
 - Modificar y mantener
 - Listas de espera por correo
@@ -32,7 +32,7 @@ Sin medidores ni facturas sorpresa. Cada plan es un mes de ese trabajo. Cuando e
 
 - Construir
 - Alojar
-- Procesar pagos - 1% de comisión + Stripe
+- Procesar pagos - 4% de comisión (1% de plataforma + 3% de Stripe)
 - Generar imágenes
 - Modificar y mantener
 - Listas de espera por correo

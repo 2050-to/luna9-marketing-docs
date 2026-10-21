@@ -21,7 +21,7 @@ No meters and no surprise bills. Each plan is a month of that work. When the mon
 
 - Build
 - Host
-- Process Payments - 2% fee + Stripe
+- Process Payments - 5% fee (2% platform + 3% Stripe)
 - Generate Images
 - Modify and Maintain
 - Email Waitlists
@@ -32,7 +32,7 @@ No meters and no surprise bills. Each plan is a month of that work. When the mon
 
 - Build
 - Host
-- Process Payments - 1% fee + Stripe
+- Process Payments - 4% fee (1% platform + 3% Stripe)
 - Generate Images
 - Modify and Maintain
 - Email Waitlists

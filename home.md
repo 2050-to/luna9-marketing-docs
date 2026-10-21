@@ -121,7 +121,7 @@ Enough to run the work by text, voice, and a call.
 
 -   Build
 -   Host
--   Process Payments - 2% fee + Stripe
+-   Process Payments - 5% fee (2% platform + 3% Stripe)
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists
@@ -140,7 +140,7 @@ The same work, with more room to talk and to build.
 
 -   Build
 -   Host
--   Process Payments - 1% fee + Stripe
+-   Process Payments - 4% fee (1% platform + 3% Stripe)
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists
@@ -198,7 +198,7 @@ You say the site you need. It asks a few questions, then plans, builds, and ship
 
 ### How much does it cost?
 
-Base is $30 a month or $300 a year. Pro is $100 a month or $1,000 a year. Agency is $200 a month or $2,000 a year. Base includes up to 5 projects and 3 domains. Pro includes up to 15 projects and 9 domains, plus Sales, Calls, and background checks. Agency includes up to 50 projects and 25 domains, plus those tools. Client payments add a platform fee of 2% on Base, 1% on Pro, and none on Agency. Stripe's fee is separate. No metered billing, no surprise bills.
+Base is $30 a month or $300 a year. Pro is $100 a month or $1,000 a year. Agency is $200 a month or $2,000 a year. Base includes up to 5 projects and 3 domains. Pro includes up to 15 projects and 9 domains, plus Sales, Calls, and background checks. Agency includes up to 50 projects and 25 domains, plus those tools. Client payments cost 5% on Base (2% platform + 3% Stripe), 4% on Pro (1% platform + 3% Stripe), and 3% on Agency (Stripe). No metered billing, no surprise bills.
 
 ### Can I use it today?
 
