@@ -8,7 +8,7 @@ These are examples of the two kits, plus a one-page site. They are not separate 
 
 ## Service businesses
 
-Booking, deposits, and a scheduler.
+Example Studio: a deposit holds the time.
 
 You say
 
@@ -20,24 +20,36 @@ A landing page, booking, deposits, a scheduler, and a place to keep clients.
 
 It stays
 
-It keeps the site up after it ships.
+Clients and the week stay after it ships.
 
- Appointments 
+ Book a time 
 
-Appointments
+Example Studio
 
 Book a time
+
+Consult · $80
 
 -   Tuesday morning
 -   Thursday afternoon
 
 Deposit
 
-A deposit holds the time
+Pay for your visit
+
+$80
+
+Pay
+
+ The week 
+
+The week
+
+Tuesday, 9:00 AM Consult 
 
 ## Product businesses
 
-A catalog, checkout, and inventory.
+Example Goods takes the order and the payment.
 
 You say
 
@@ -51,21 +63,37 @@ It stays
 
 It hosts the shop. You type a tracking number when an order ships.
 
- Shop 
+ Example Goods 
 
-Shop
+Example Goods
+
+Ships US-wide
+
+Made here. Shipped to your door.
 
 Catalog
 
-Product
+Starter kit
 
-Inventory
+$42 · 12 left
+
+Add
 
 Checkout
+
+$42
 
 Tracking number
 
 You type this when an order ships
+
+ Stock 
+
+Stock
+
+Starter kit
+
+12 left
 
 ## A simple page
 
@@ -101,15 +129,52 @@ Order a cake
 
 ## Included
 
-The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
+A service kit, a product kit, or one page. The work around the site is the same. [Pricing](https://lunanineai.com/pricing)
 
--   Build
--   Host
--   Process Payments
--   Generate Images
--   Modify and Maintain
--   Email Waitlists
--   Bring Your Own Domain - free
+-   ### You say it
+    
+    A message, a voice note, or a live call. You can stay hands-off or approve the plan.
+    
+-   ### It ships and stays
+    
+    It plans, builds, and ships the same day. It keeps the site up and changes it when you ask. It tells you when something needs you.
+    
+-   ### It hosts the site
+    
+    The site stays live, including on a domain you already own.
+    
+-   ### The site you asked for
+    
+    One page, appointments with deposits and a scheduler, or a shop with a catalog, checkout, inventory, and a tracking number you type.
+    
+-   ### Clients can pay
+    
+    The site takes card payments. The platform fee depends on the plan.
+    
+-   ### Pictures, files, and a waitlist
+    
+    It makes pictures for the site, keeps your files with the work, and collects an email waitlist.
+    
+-   ### Messages come to you
+    
+    A form on the site lands in an inbox you can download. You can be notified, and the sender can be saved. The address stays off the page.
+    
+-   ### You can see visits
+    
+    You see who came. Add a Google tag, a video, a calendar, a map, or a form you already use. It appears on the next publish.
+    
+-   ### It reminds you
+    
+    Set a reminder. It tells you when that time comes.
+    
+-   ### A sales team you describe
+    
+    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Base and up.
+    
+-   ### Hand the site over
+    
+    A finished site can move to a customer who has their own plan.
+    
 
 ## How a job works
 

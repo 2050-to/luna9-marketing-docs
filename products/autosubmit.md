@@ -65,6 +65,12 @@ Its own profile and its own campaign.
 
 On AutoSubmit's own campaign, Domain Rating moved +4.
 
+## How this helps
+
+### A launch people can find
+
+You write the launch once. Directories get filled from that profile, and you see which listings went live.
+
 ## How it works
 
 1.  1

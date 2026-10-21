@@ -62,6 +62,12 @@ Download
 
 Investor, lead, contractor, cofounder, vendor, or advisor.
 
+## How this helps
+
+### Before you hire, buy, or partner
+
+You read what public sources say, then decide. It is not a criminal background check.
+
 ## How it works
 
 1.  1

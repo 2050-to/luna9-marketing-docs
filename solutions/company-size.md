@@ -54,21 +54,31 @@ It stays
 
 Pro is more builds and more room to talk in that month. It is not a different product.
 
- Bakery 
+ Example Goods 
 
-Bakery
+Example Goods
 
 Pro
 
--   Menu
--   Hours
--   Cake orders
+Ships US-wide
 
-Morning bun
+Made here. Shipped to your door.
 
-Hours: 7 AM to 2 PM
+Catalog
 
-Order a cake
+Starter kit
+
+$42 · 12 left
+
+Add
+
+Checkout
+
+$42
+
+Tracking number
+
+You type this when an order ships
 
 ## A larger company
 
@@ -86,33 +96,98 @@ It stays
 
 LunaNine is not a department tool.
 
- Bakery 
+ Example Studio 
 
-Bakery
+Example Studio
 
 One site, the same way
 
--   Menu
--   Hours
--   Cake orders
+Your city
 
-Morning bun
+Book a visit. Walk out sorted.
 
-Hours: 7 AM to 2 PM
+Example Studio is ready when you are.
 
-Order a cake
+Book a time
+
+Consult
+
+$80
+
+Email waitlist
+
+An email, nothing else.
+
+## Someone who builds for clients
+
+Agency is the same work, with no platform fee on payments.
+
+You say
+
+You build the site, then the customer takes it.
+
+It ships
+
+The site moves to a customer who has their own plan.
+
+It stays
+
+They run it. You no longer have the site.
+
+ Example Studio 
+
+Example Studio
+
+Moves to their account
 
 ## Included
 
-The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
+The same work for the person who runs it. Not a department tool. [Pricing](https://lunanineai.com/pricing)
 
--   Build
--   Host
--   Process Payments
--   Generate Images
--   Modify and Maintain
--   Email Waitlists
--   Bring Your Own Domain - free
+-   ### You say it
+    
+    A message, a voice note, or a live call. You can stay hands-off or approve the plan.
+    
+-   ### It ships and stays
+    
+    It plans, builds, and ships the same day. It keeps the site up and changes it when you ask. It tells you when something needs you.
+    
+-   ### It hosts the site
+    
+    The site stays live, including on a domain you already own.
+    
+-   ### The site you asked for
+    
+    One page, appointments with deposits and a scheduler, or a shop with a catalog, checkout, inventory, and a tracking number you type.
+    
+-   ### Clients can pay
+    
+    The site takes card payments. The platform fee depends on the plan.
+    
+-   ### Pictures, files, and a waitlist
+    
+    It makes pictures for the site, keeps your files with the work, and collects an email waitlist.
+    
+-   ### Messages come to you
+    
+    A form on the site lands in an inbox you can download. You can be notified, and the sender can be saved. The address stays off the page.
+    
+-   ### You can see visits
+    
+    You see who came. Add a Google tag, a video, a calendar, a map, or a form you already use. It appears on the next publish.
+    
+-   ### It reminds you
+    
+    Set a reminder. It tells you when that time comes.
+    
+-   ### A sales team you describe
+    
+    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Base and up.
+    
+-   ### Hand the site over
+    
+    A finished site can move to a customer who has their own plan.
+    
 
 ## How a job works
 
@@ -148,6 +223,10 @@ The same work, with more room to talk and to build.
 ### Can a larger company use it?
 
 Yes. The person who runs the site is still the user. LunaNine is not a department tool.
+
+### What if I build sites for clients?
+
+Agency is the same work, with no platform fee. A customer with their own plan can take the site.
 
 -   [Use cases](https://lunanineai.com/solutions/use-cases)
 -   [By industry](https://lunanineai.com/solutions/industry)

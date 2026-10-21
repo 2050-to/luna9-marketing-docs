@@ -40,7 +40,7 @@ Order a cake
 
 ## Appointments and deposits
 
-A service business that takes bookings.
+Example Studio takes bookings. A deposit holds the time.
 
 You say
 
@@ -54,22 +54,36 @@ It stays
 
 It keeps the site, and you can change it after launch.
 
- Appointments 
+ Book a time 
 
-Appointments
+Example Studio
 
 Book a time
+
+Consult · $80
 
 -   Tuesday morning
 -   Thursday afternoon
 
 Deposit
 
-A deposit holds the time
+Pay for your visit
+
+$80
+
+Pay
+
+ Clients 
+
+Clients
+
+A client
+
+Consult, Tuesday
 
 ## A shop that takes orders
 
-A shop that sells and ships.
+Example Goods takes the order and the payment.
 
 You say
 
@@ -83,17 +97,25 @@ It stays
 
 It hosts the shop and tells you when something needs you.
 
- Shop 
+ Example Goods 
 
-Shop
+Example Goods
+
+Ships US-wide
+
+Made here. Shipped to your door.
 
 Catalog
 
-Product
+Starter kit
 
-Inventory
+$42 · 12 left
+
+Add
 
 Checkout
+
+$42
 
 Tracking number
 
@@ -101,15 +123,52 @@ You type this when an order ships
 
 ## Included
 
-The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
+The job you named, and the work that comes with the site. [Pricing](https://lunanineai.com/pricing)
 
--   Build
--   Host
--   Process Payments
--   Generate Images
--   Modify and Maintain
--   Email Waitlists
--   Bring Your Own Domain - free
+-   ### You say it
+    
+    A message, a voice note, or a live call. You can stay hands-off or approve the plan.
+    
+-   ### It ships and stays
+    
+    It plans, builds, and ships the same day. It keeps the site up and changes it when you ask. It tells you when something needs you.
+    
+-   ### It hosts the site
+    
+    The site stays live, including on a domain you already own.
+    
+-   ### The site you asked for
+    
+    One page, appointments with deposits and a scheduler, or a shop with a catalog, checkout, inventory, and a tracking number you type.
+    
+-   ### Clients can pay
+    
+    The site takes card payments. The platform fee depends on the plan.
+    
+-   ### Pictures, files, and a waitlist
+    
+    It makes pictures for the site, keeps your files with the work, and collects an email waitlist.
+    
+-   ### Messages come to you
+    
+    A form on the site lands in an inbox you can download. You can be notified, and the sender can be saved. The address stays off the page.
+    
+-   ### You can see visits
+    
+    You see who came. Add a Google tag, a video, a calendar, a map, or a form you already use. It appears on the next publish.
+    
+-   ### It reminds you
+    
+    Set a reminder. It tells you when that time comes.
+    
+-   ### A sales team you describe
+    
+    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Base and up.
+    
+-   ### Hand the site over
+    
+    A finished site can move to a customer who has their own plan.
+    
 
 ## How a job works
 
@@ -146,6 +205,9 @@ No. You can stay hands-off or approve the plan.
 
 No. The same work. Pro is more room in the same month. Prices are on the pricing page.
 
+-   [Site Builder](https://lunanineai.com/products/site-builder)
+-   [AutoSubmit](https://lunanineai.com/products/autosubmit)
+-   [BG Check](https://lunanineai.com/products/bgcheck)
 -   [By company size](https://lunanineai.com/solutions/company-size)
 -   [By industry](https://lunanineai.com/solutions/industry)
 -   [Pricing](https://lunanineai.com/pricing)
