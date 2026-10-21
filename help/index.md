@@ -3,7 +3,7 @@ title: LunaNine Help
 description: How to sign up, pick a plan, make a call, and reach us.
 ---
 
-LunaNine is a site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it.
+LunaNine is an evolving site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it.
 
 ## Articles
 

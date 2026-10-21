@@ -1,8 +1,8 @@
 # LunaNine
 
-A site builder you can talk to.
+An evolving site builder you can talk to.
 
-**LunaNine is a site builder you can talk to. It plans, builds, ships, and maintains your site.**
+**LunaNine is an evolving site builder you can talk to. It plans, builds, ships, and maintains your site.**
 
 ***It is easy to use, fast to ship, and reliable after launch.***
 
@@ -49,6 +49,9 @@ The large players have no incentive to cater to this market, but we do.
 This plan keeps voice notes and text but not phone calls.
 
 **A premium plan: $100 per month, $1,000 per year**
+
+**An agency plan: $200 per month, $2,000 per year.**
+The same work as Pro, and no platform fee on payments.
 
 For additional usage we will have a top up model with "Booster Packs". 
 

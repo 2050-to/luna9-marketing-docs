@@ -60,7 +60,7 @@ The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
 
 -   Build
 -   Host
--   Process Payments - 3% fee (Stripe)
+-   Process Payments
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists
@@ -91,7 +91,7 @@ The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
 
 ### What is it?
 
-A site builder you can talk to. It plans, builds, ships, and maintains your site.
+An evolving site builder you can talk to. It plans, builds, ships, and maintains your site.
 
 ### Who is it for?
 
@@ -105,6 +105,7 @@ You say the site you need. It asks a few questions, then plans, builds, and ship
 -   [AutoSubmit](https://lunanineai.com/products/autosubmit)
 -   [BG Check](https://lunanineai.com/products/bgcheck)
 -   [Pricing](https://lunanineai.com/pricing)
+-   [Site builder review](https://lunanineai.com/reviews/evolving-site-builder)
 
 ---
 

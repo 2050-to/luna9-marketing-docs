@@ -105,7 +105,7 @@ The same work on Base and Pro. [Pricing](https://lunanineai.com/pricing)
 
 -   Build
 -   Host
--   Process Payments - 3% fee (Stripe)
+-   Process Payments
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists

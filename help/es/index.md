@@ -3,7 +3,7 @@ title: Ayuda de LunaNine
 description: Cómo registrarte, elegir un plan, hacer una llamada y contactarnos.
 ---
 
-LunaNine es un creador de sitios con el que puedes hablar. Dices el sitio que necesitas. Lo planifica, lo construye, lo publica y lo mantiene.
+LunaNine es un creador de sitios en evolución con el que puedes hablar. Dices el sitio que necesitas. Lo planifica, lo construye, lo publica y lo mantiene.
 
 ## Artículos
 

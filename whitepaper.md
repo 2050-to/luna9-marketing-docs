@@ -1,8 +1,8 @@
 # LunaNine
 
-A site builder you can talk to.
+An evolving site builder you can talk to.
 
-**LunaNine is a site builder you can talk to. It plans, builds, ships, and maintains your site.**
+**LunaNine is an evolving site builder you can talk to. It plans, builds, ships, and maintains your site.**
 
 **_It is easy to use, fast to ship, and reliable after launch._**
 

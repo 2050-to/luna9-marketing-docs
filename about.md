@@ -1,8 +1,8 @@
-# A site builder you can talk to.
+# An evolving site builder you can talk to.
 
 ## What it is
 
-LunaNine is a site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it. Easy to start, fast to ship, and it stays on the site after launch.
+LunaNine is an evolving site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it. Easy to start, fast to ship, and it stays on the site after launch.
 
 ## Why it was built
 
@@ -10,7 +10,7 @@ Most site builders hand you a draft and leave. Hosting, fixes, and updates becom
 
 ## How it works
 
-You say the site you need, in a message or a voice note. It asks a few questions, then plans, builds, tests, and ships. You can approve the plan or stay hands-off. After launch it maintains the site. Base is $30/mo or $300/yr (text and voice notes). Pro is $100/mo or $1,000/yr (includes live calls). No metered billing, no surprise bills.
+You say the site you need, in a message or a voice note. It asks a few questions, then plans, builds, tests, and ships. You can approve the plan or stay hands-off. After launch it maintains the site. Base is $30/mo or $300/yr (text and voice notes). Pro is $100/mo or $1,000/yr (includes live calls). Agency is $200/mo or $2,000/yr (no platform fee on payments). No metered billing, no surprise bills.
 
 ## Community
 

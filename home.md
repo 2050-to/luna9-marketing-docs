@@ -1,8 +1,8 @@
-# A site builder you can talk to
+# An evolving site builder you can talk to
 
 Open beta - now live
 
-# A site builder you can talk to
+# An evolving site builder you can talk to
 
 A site builder that plans, builds, ships and maintains your site.
 
@@ -121,7 +121,7 @@ Enough to run the work by text, voice, and a call.
 
 -   Build
 -   Host
--   Process Payments - 3% fee (Stripe)
+-   Process Payments - 2% fee + Stripe
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists
@@ -136,6 +136,24 @@ or $1,000 / year
 [Buy Pro](https://lunanineai.com/login)
 
 The same work, with more room to talk and to build.
+
+-   Build
+-   Host
+-   Process Payments - 1% fee + Stripe
+-   Generate Images
+-   Modify and Maintain
+-   Email Waitlists
+-   Bring Your Own Domain - free
+
+### Agency
+
+$200 / month
+
+or $2,000 / year
+
+[Buy Agency](https://lunanineai.com/login)
+
+The same work as Pro, and no platform fee on payments.
 
 -   Build
 -   Host
@@ -159,7 +177,7 @@ Under 1,000 $LUNA9, you can still sign in and pay by card.
 
 ### What is it?
 
-A site builder you can talk to. It plans, builds, ships, and maintains your site.
+An evolving site builder you can talk to. It plans, builds, ships, and maintains your site.
 
 ### Who is it for?
 
@@ -171,7 +189,7 @@ You say the site you need. It asks a few questions, then plans, builds, and ship
 
 ### How much does it cost?
 
-Base is $30 a month or $300 a year (text and voice notes). Pro is $100 a month or $1,000 a year (includes live calls). No metered billing, no surprise bills.
+Base is $30 a month or $300 a year. Pro is $100 a month or $1,000 a year. Agency is $200 a month or $2,000 a year. Client payments add a platform fee of 2% on Base, 1% on Pro, and none on Agency. Stripe's fee is separate. No metered billing, no surprise bills.
 
 ### Can I use it today?
 

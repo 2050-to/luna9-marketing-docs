@@ -1,6 +1,6 @@
 ---
 title: Plans and pricing
-description: Base, Pro, card billing, and $LUNA9 holder grants.
+description: Base, Pro, Agency, card billing, and $LUNA9 holder grants.
 ---
 
 One flat price. You say the site you need. LunaNine plans it, builds it, ships it, and maintains it. Pay with a card, or connect a wallet that holds $LUNA9.
@@ -11,8 +11,9 @@ Prices are on [Plans and pricing](https://lunanineai.com/pricing/). Checkout is 
 
 - **Base** - $30 / month or $300 / year. Enough to run the work by text, voice, and a call.
 - **Pro** - $100 / month or $1,000 / year. The same work, with more room to talk and to build.
+- **Agency** - $200 / month or $2,000 / year. The same work as Pro, and no platform fee on payments.
 
-Chat and calls are on Base and Pro. Sign in, then choose a plan in Settings.
+Chat and calls are on Base, Pro, and Agency. Sign in, then choose a plan in Settings.
 
 No meters and no surprise bills. Each plan is a month of that work. When the month runs out, it refills. Need more room before then? Move to Pro.
 
@@ -22,7 +23,10 @@ Pro is the same work, with more room.
 
 - Build
 - Host
-- Process Payments - 3% fee (Stripe)
+- Process Payments
+- Base - 2% fee + Stripe
+- Pro - 1% fee + Stripe
+- Agency - 3% fee (Stripe)
 - Generate Images
 - Modify and Maintain
 - Email Waitlists
@@ -40,6 +44,19 @@ Pro is the same work, with more room.
 - Each voice note can run 60 seconds
 
 **Pro, each month**
+
+- 1,800 conversations to shape the work
+- 6 builds that finish while you are away
+- 80 voice notes, or 60 minutes of speaking
+- Spoken answers, up to 60,000 characters
+- 90 minutes of live calls
+- 75 pictures made for you
+- 1.5 GB to keep your files
+- Each voice note can run 120 seconds
+
+**Agency, each month**
+
+The same room as Pro.
 
 - 1,800 conversations to shape the work
 - 6 builds that finish while you are away
