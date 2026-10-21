@@ -2,7 +2,7 @@
 
 An evolving site builder keeps working after the site is live. You say what should change. It plans the change, ships it, and stays.
 
-Most tools sell the first build. This page compares LunaNine with hosted AI website builders and with code agents, on the work after launch.
+Most tools sell the first build. This page compares LunaNine with [hosted AI site builders](https://lunanineai.com/hosted-ai-site-builders) and with code agents, on the work after launch.
 
 [Create an account](https://lunanineai.com/signup)
 
@@ -143,7 +143,7 @@ v0 fits a developer who wants generated interface code and will deploy and maint
 
 LunaNine is an evolving site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it. Base is $30 a month and includes text, voice, and a call. LunaNine hosts the site. You do not take the source with you.
 
--   [Site Builder](https://lunanineai.com/products/site-builder)
+-   [Evolving Site Builder](https://lunanineai.com/products/site-builder)
 -   [Pricing](https://lunanineai.com/pricing)
 -   [Best AI builders](https://lunanineai.com/best-ai-website-builder)
 

@@ -12,7 +12,7 @@ next sync from [2050-to/luna9](https://github.com/2050-to/luna9).
 | Media pack | [media.md](media.md) | https://lunanineai.com/media |
 | Whitepaper | [whitepaper.md](whitepaper.md) | https://lunanineai.com/whitepaper |
 | Products | [products.md](products.md) | https://lunanineai.com/products |
-| Site builder | [products/site-builder.md](products/site-builder.md) | https://lunanineai.com/products/site-builder |
+| Evolving site builder | [products/site-builder.md](products/site-builder.md) | https://lunanineai.com/products/site-builder |
 | AutoSubmit | [products/autosubmit.md](products/autosubmit.md) | https://lunanineai.com/products/autosubmit |
 | BG Check | [products/bgcheck.md](products/bgcheck.md) | https://lunanineai.com/products/bgcheck |
 | Solutions | [solutions.md](solutions.md) | https://lunanineai.com/solutions |
@@ -20,6 +20,7 @@ next sync from [2050-to/luna9](https://github.com/2050-to/luna9).
 | By company size | [solutions/company-size.md](solutions/company-size.md) | https://lunanineai.com/solutions/company-size |
 | By industry | [solutions/industry.md](solutions/industry.md) | https://lunanineai.com/solutions/industry |
 | Evolving site builder review | [reviews/evolving-site-builder.md](reviews/evolving-site-builder.md) | https://lunanineai.com/reviews/evolving-site-builder |
+| Hosted AI site builders | [hosted-ai-site-builders.md](hosted-ai-site-builders.md) | https://lunanineai.com/hosted-ai-site-builders |
 | Best AI website builder | [best-ai-website-builder.md](best-ai-website-builder.md) | https://lunanineai.com/best-ai-website-builder |
 | Help | [help/](help/) | https://lunanineai.com/help/ |
 

@@ -4,7 +4,7 @@ Open beta - now live
 
 # An evolving site builder you can talk to
 
-A site builder that plans, builds, ships and maintains your site.
+An evolving site builder that plans, builds, ships and maintains your site.
 
 [Create an account](https://lunanineai.com/signup)[Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
 

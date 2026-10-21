@@ -130,9 +130,9 @@ You edit it in WordPress.
 
 Later changes are yours.
 
-For where each kind of tool stops, see the [evolving site builder review](https://lunanineai.com/reviews/evolving-site-builder).
+For where each kind of tool stops, see the [evolving site builder review](https://lunanineai.com/reviews/evolving-site-builder). For what hosted means, see [hosted AI site builders](https://lunanineai.com/hosted-ai-site-builders).
 
--   [Site Builder](https://lunanineai.com/products/site-builder)
+-   [Evolving Site Builder](https://lunanineai.com/products/site-builder)
 -   [Pricing](https://lunanineai.com/pricing)
 -   [Create an account](https://lunanineai.com/signup)
 
