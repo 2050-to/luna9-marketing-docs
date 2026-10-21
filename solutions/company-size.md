@@ -155,4 +155,4 @@ Yes. The person who runs the site is still the user. LunaNine is not a departmen
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-20; live page: https://lunanineai.com/solutions/company-size*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-21; live page: https://lunanineai.com/solutions/company-size*
