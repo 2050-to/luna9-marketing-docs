@@ -98,7 +98,7 @@ The same room as Pro.
 Connect a wallet on Robinhood Chain. The balance you hold includes the matching plan.
 
 - 1,000 $LUNA9 - 20 checks a month, coming soon. That room is set aside. Checks are not available yet.
-- 200,000 $LUNA9 - Base included.
-- 1,000,000 $LUNA9 - Pro included.
+- $30 of $LUNA9 - Base included.
+- $100 of $LUNA9 - Pro included.
 
 Under 1,000 $LUNA9, you can still sign in and pay by card.

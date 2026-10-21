@@ -98,7 +98,7 @@ El mismo espacio que Pro.
 Conecta una billetera en Robinhood Chain. El saldo que tienes incluye el plan correspondiente.
 
 - 1,000 $LUNA9 - 20 chequeos al mes, próximamente. Ese cupo está reservado. Los chequeos aún no están disponibles.
-- 200,000 $LUNA9 - Base incluido.
-- 1,000,000 $LUNA9 - Pro incluido.
+- $30 de $LUNA9 - Base incluido.
+- $100 de $LUNA9 - Pro incluido.
 
 Con menos de 1,000 $LUNA9 puedes iniciar sesión y pagar con tarjeta.

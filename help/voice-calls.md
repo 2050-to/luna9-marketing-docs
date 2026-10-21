@@ -3,7 +3,7 @@ title: Voice-call basics
 description: How live calls work, how to allow the microphone, and how to pick a voice.
 ---
 
-Live calls are on Base and Pro: a card subscription, or a wallet that holds 200,000 $LUNA9 (Base) or 1,000,000 $LUNA9 (Pro). Base includes 30 minutes of live calls in each rolling window. Pro includes 120.
+Live calls are on Base and Pro: a card subscription, or a wallet that holds at least $30 of $LUNA9 (Base) or $100 of $LUNA9 (Pro). Base includes 30 minutes of live calls in each rolling window. Pro includes 120.
 
 ## Start a call
 
