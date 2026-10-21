@@ -19,18 +19,44 @@ No meters and no surprise bills. Each plan is a month of that work. When the mon
 
 **Included with Base**
 
-Pro is the same work, with more room.
-
 - Build
 - Host
-- Process Payments
-- Base - 2% fee + Stripe
-- Pro - 1% fee + Stripe
-- Agency - 3% fee (Stripe)
+- Process Payments - 2% fee + Stripe
 - Generate Images
 - Modify and Maintain
 - Email Waitlists
-- Bring Your Own Domain - free
+- Projects - up to 5
+- Bring Your Own Domain - up to 3
+
+**Included with Pro**
+
+- Build
+- Host
+- Process Payments - 1% fee + Stripe
+- Generate Images
+- Modify and Maintain
+- Email Waitlists
+- Projects - up to 15
+- Bring Your Own Domain - up to 9
+- Sales
+- Calls
+- Background checks
+
+**Included with Agency**
+
+- Build
+- Host
+- Process Payments - 3% fee (Stripe)
+- Generate Images
+- Modify and Maintain
+- Email Waitlists
+- Projects - up to 50
+- Bring Your Own Domain - up to 25
+- Sales
+- Calls
+- Background checks
+
+Sales, Calls, and background checks are on Pro and Agency. Live calls stay on every card plan.
 
 **Base, each month**
 

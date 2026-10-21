@@ -47,11 +47,14 @@ The large players have no incentive to cater to this market, but we do.
 
 **An entry level plan: $30 per month, $300 per year (10x monthly).**
 This plan keeps voice notes and text but not phone calls.
+Up to 5 projects and 3 domains.
 
 **A premium plan: $100 per month, $1,000 per year**
+Up to 15 projects and 9 domains, plus Sales, Calls, and background checks.
 
 **An agency plan: $200 per month, $2,000 per year.**
 The same work as Pro, and no platform fee on payments.
+Up to 50 projects and 25 domains, plus those tools.
 
 For additional usage we will have a top up model with "Booster Packs". 
 

@@ -125,7 +125,8 @@ Enough to run the work by text, voice, and a call.
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists
--   Bring Your Own Domain - free
+-   Projects - up to 5
+-   Bring Your Own Domain - up to 3
 
 ### Pro
 
@@ -143,7 +144,11 @@ The same work, with more room to talk and to build.
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists
--   Bring Your Own Domain - free
+-   Projects - up to 15
+-   Bring Your Own Domain - up to 9
+-   Sales
+-   Calls
+-   Background checks
 
 ### Agency
 
@@ -161,7 +166,11 @@ The same work as Pro, and no platform fee on payments.
 -   Generate Images
 -   Modify and Maintain
 -   Email Waitlists
--   Bring Your Own Domain - free
+-   Projects - up to 50
+-   Bring Your Own Domain - up to 25
+-   Sales
+-   Calls
+-   Background checks
 
 ### Hold $LUNA9
 
@@ -189,7 +198,7 @@ You say the site you need. It asks a few questions, then plans, builds, and ship
 
 ### How much does it cost?
 
-Base is $30 a month or $300 a year. Pro is $100 a month or $1,000 a year. Agency is $200 a month or $2,000 a year. Client payments add a platform fee of 2% on Base, 1% on Pro, and none on Agency. Stripe's fee is separate. No metered billing, no surprise bills.
+Base is $30 a month or $300 a year. Pro is $100 a month or $1,000 a year. Agency is $200 a month or $2,000 a year. Base includes up to 5 projects and 3 domains. Pro includes up to 15 projects and 9 domains, plus Sales, Calls, and background checks. Agency includes up to 50 projects and 25 domains, plus those tools. Client payments add a platform fee of 2% on Base, 1% on Pro, and none on Agency. Stripe's fee is separate. No metered billing, no surprise bills.
 
 ### Can I use it today?
 

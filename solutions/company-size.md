@@ -182,7 +182,7 @@ The same work for the person who runs it. Not a department tool. [Pricing](https
     
 -   ### A sales team you describe
     
-    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Base and up.
+    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Pro and Agency.
     
 -   ### Hand the site over
     

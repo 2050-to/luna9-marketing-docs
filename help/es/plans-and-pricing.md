@@ -19,18 +19,44 @@ Sin medidores ni facturas sorpresa. Cada plan es un mes de ese trabajo. Cuando e
 
 **Incluido con Base**
 
-Pro es el mismo trabajo, con más espacio.
-
 - Construir
 - Alojar
-- Procesar pagos
-- Base - 2% de comisión + Stripe
-- Pro - 1% de comisión + Stripe
-- Agency - 3% de comisión (Stripe)
+- Procesar pagos - 2% de comisión + Stripe
 - Generar imágenes
 - Modificar y mantener
 - Listas de espera por correo
-- Trae tu propio dominio - gratis
+- Proyectos - hasta 5
+- Trae tu propio dominio - hasta 3
+
+**Incluido con Pro**
+
+- Construir
+- Alojar
+- Procesar pagos - 1% de comisión + Stripe
+- Generar imágenes
+- Modificar y mantener
+- Listas de espera por correo
+- Proyectos - hasta 15
+- Trae tu propio dominio - hasta 9
+- Ventas
+- Llamadas
+- Verificaciones de antecedentes
+
+**Incluido con Agency**
+
+- Construir
+- Alojar
+- Procesar pagos - 3% de comisión (Stripe)
+- Generar imágenes
+- Modificar y mantener
+- Listas de espera por correo
+- Proyectos - hasta 50
+- Trae tu propio dominio - hasta 25
+- Ventas
+- Llamadas
+- Verificaciones de antecedentes
+
+Ventas, Llamadas y las verificaciones de antecedentes están en Pro y en Agency. Las llamadas en vivo siguen en cada plan de tarjeta.
 
 **Base, cada mes**
 
