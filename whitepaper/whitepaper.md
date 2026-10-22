@@ -45,6 +45,9 @@ The large players have no incentive to cater to this market, but we do.
 
 ## Pricing Model
 
+**A starter plan: $20 per month, $200 per year (10x monthly).**
+Up to 3 projects and 1 domain. Client payments cost 8% (5% platform + 3% Stripe).
+
 **An entry level plan: $30 per month, $300 per year (10x monthly).**
 This plan keeps voice notes and text but not phone calls.
 Up to 5 projects and 3 domains.

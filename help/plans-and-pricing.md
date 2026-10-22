@@ -1,6 +1,6 @@
 ---
 title: Plans and pricing
-description: Base, Pro, Agency, card billing, and $LUNA9 holder grants.
+description: Starter, Base, Pro, Agency, card billing, and $LUNA9 holder grants.
 ---
 
 One flat price. You say the site you need. LunaNine plans it, builds it, ships it, and maintains it. Pay with a card, or connect a wallet that holds $LUNA9.
@@ -9,13 +9,25 @@ Prices are on [Plans and pricing](https://lunanineai.com/pricing/). Checkout is 
 
 ## Card plans
 
+- **Starter** - $20 / month or $200 / year. Enough to run the work on a few projects.
 - **Base** - $30 / month or $300 / year. Enough to run the work by text, voice, and a call.
 - **Pro** - $100 / month or $1,000 / year. The same work, with more room to talk and to build.
 - **Agency** - $200 / month or $2,000 / year. The same work as Pro, and no platform fee on payments.
 
-Chat and calls are on Base, Pro, and Agency. Sign in, then choose a plan in Settings.
+Chat and calls are on Starter, Base, Pro, and Agency. Sign in, then choose a plan in Settings.
 
 No meters and no surprise bills. Each plan is a month of that work. When the month runs out, it refills. Need more room before then? Move to Pro.
+
+**Included with Starter**
+
+- Build
+- Host
+- Process Payments - 8% fee (5% platform + 3% Stripe)
+- Generate Images
+- Modify and Maintain
+- Email Waitlists
+- Projects - up to 3
+- Bring Your Own Domain - up to 1
 
 **Included with Base**
 
@@ -57,6 +69,10 @@ No meters and no surprise bills. Each plan is a month of that work. When the mon
 - Background checks
 
 Sales, Calls, and background checks are on Pro and Agency. Live calls stay on every card plan.
+
+**Starter, each month**
+
+The monthly room matches Base.
 
 **Base, each month**
 

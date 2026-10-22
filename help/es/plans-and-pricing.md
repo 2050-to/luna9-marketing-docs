@@ -1,6 +1,6 @@
 ---
 title: Planes y precios
-description: Base, Pro, Agency, pago con tarjeta y beneficios para titulares de $LUNA9.
+description: Starter, Base, Pro, Agency, pago con tarjeta y beneficios para titulares de $LUNA9.
 ---
 
 Un precio fijo. Dices el sitio que necesitas. LunaNine lo planea, lo construye, lo publica y lo mantiene. Paga con tarjeta, o conecta una billetera que tenga $LUNA9.
@@ -9,13 +9,25 @@ Los precios están en [Planes y precios](https://lunanineai.com/pricing/). El pa
 
 ## Planes con tarjeta
 
+- **Starter** - $20 / mes o $200 / año. Suficiente para llevar el trabajo en unos pocos proyectos.
 - **Base** - $30 / mes o $300 / año. Suficiente para llevar el trabajo por texto, voz y una llamada.
 - **Pro** - $100 / mes o $1,000 / año. El mismo trabajo, con más espacio para hablar y para construir.
 - **Agency** - $200 / mes o $2,000 / año. El mismo trabajo que Pro, y sin comisión de plataforma en los pagos.
 
-El chat y las llamadas están en Base, Pro y Agency. Inicia sesión y luego elige un plan en Ajustes.
+El chat y las llamadas están en Starter, Base, Pro y Agency. Inicia sesión y luego elige un plan en Ajustes.
 
 Sin medidores ni facturas sorpresa. Cada plan es un mes de ese trabajo. Cuando el mes se acaba, se renueva. ¿Necesitas más espacio antes? Pasa a Pro.
+
+**Incluido con Starter**
+
+- Construir
+- Alojar
+- Procesar pagos - 8% de comisión (5% de plataforma + 3% de Stripe)
+- Generar imágenes
+- Modificar y mantener
+- Listas de espera por correo
+- Proyectos - hasta 3
+- Trae tu propio dominio - hasta 1
 
 **Incluido con Base**
 
@@ -57,6 +69,10 @@ Sin medidores ni facturas sorpresa. Cada plan es un mes de ese trabajo. Cuando e
 - Verificaciones de antecedentes
 
 Ventas, Llamadas y las verificaciones de antecedentes están en Pro y en Agency. Las llamadas en vivo siguen en cada plan de tarjeta.
+
+**Starter, cada mes**
+
+El cupo mensual es el mismo que Base.
 
 **Base, cada mes**
 

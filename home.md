@@ -109,6 +109,25 @@ Ready. Live. I'll keep it up.
 
 ## What it costs
 
+### Starter
+
+$20 / month
+
+or $200 / year
+
+[Buy Starter](https://lunanineai.com/login)
+
+Enough to run the work on a few projects.
+
+-   Build
+-   Host
+-   Process Payments - 8% fee (5% platform + 3% Stripe)
+-   Generate Images
+-   Modify and Maintain
+-   Email Waitlists
+-   Projects - up to 3
+-   Bring Your Own Domain - up to 1
+
 ### Base
 
 $30 / month
@@ -198,7 +217,7 @@ You say the site you need. It asks a few questions, then plans, builds, and ship
 
 ### How much does it cost?
 
-Base is $30 a month or $300 a year. Pro is $100 a month or $1,000 a year. Agency is $200 a month or $2,000 a year. Base includes up to 5 projects and 3 domains. Pro includes up to 15 projects and 9 domains, plus Sales, Calls, and background checks. Agency includes up to 50 projects and 25 domains, plus those tools. Client payments cost 5% on Base (2% platform + 3% Stripe), 4% on Pro (1% platform + 3% Stripe), and 3% on Agency (Stripe). No metered billing, no surprise bills.
+Starter is $20 a month or $200 a year. Base is $30 a month or $300 a year. Pro is $100 a month or $1,000 a year. Agency is $200 a month or $2,000 a year. Starter includes up to 3 projects and 1 domain. Base includes up to 5 projects and 3 domains. Pro includes up to 15 projects and 9 domains, plus Sales, Calls, and background checks. Agency includes up to 50 projects and 25 domains, plus those tools. Client payments cost 8% on Starter (5% platform + 3% Stripe), 5% on Base (2% platform + 3% Stripe), 4% on Pro (1% platform + 3% Stripe), and 3% on Agency (Stripe). No metered billing, no surprise bills.
 
 ### Can I use it today?
 
