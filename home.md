@@ -109,7 +109,15 @@ Ready. Live. I'll keep it up.
 
 ## What it costs
 
-### Starter
+## Every plan
+
+-   Build
+-   Host
+-   Generate Images
+-   Modify and Maintain
+-   Email Waitlists
+
+## Starter
 
 $20 / month
 
@@ -119,16 +127,11 @@ or $200 / year
 
 Enough to run the work on a few projects.
 
--   Build
--   Host
 -   Process Payments - 8% fee (5% platform + 3% Stripe)
--   Generate Images
--   Modify and Maintain
--   Email Waitlists
 -   Projects - up to 3
 -   Bring Your Own Domain - up to 1
 
-### Base
+## Base
 
 $30 / month
 
@@ -138,16 +141,11 @@ or $300 / year
 
 Enough to run the work by text, voice, and a call.
 
--   Build
--   Host
 -   Process Payments - 5% fee (2% platform + 3% Stripe)
--   Generate Images
--   Modify and Maintain
--   Email Waitlists
 -   Projects - up to 5
 -   Bring Your Own Domain - up to 3
 
-### Pro
+## Pro
 
 $100 / month
 
@@ -157,19 +155,14 @@ or $1,000 / year
 
 The same work, with more room to talk and to build.
 
--   Build
--   Host
 -   Process Payments - 4% fee (1% platform + 3% Stripe)
--   Generate Images
--   Modify and Maintain
--   Email Waitlists
 -   Projects - up to 15
 -   Bring Your Own Domain - up to 9
 -   Sales
 -   Calls
 -   Background checks
 
-### Agency
+## Agency
 
 $200 / month
 
@@ -179,19 +172,16 @@ or $2,000 / year
 
 The same work as Pro, and no platform fee on payments.
 
--   Build
--   Host
 -   Process Payments - 3% fee (Stripe)
--   Generate Images
--   Modify and Maintain
--   Email Waitlists
 -   Projects - up to 50
 -   Bring Your Own Domain - up to 25
 -   Sales
 -   Calls
 -   Background checks
 
-### Hold $LUNA9
+Members earn 20% on Pro and 30% on Agency. Affiliates
+
+## Hold $LUNA9
 
 Connect a wallet on Robinhood Chain. The balance you hold includes the matching plan.
 
