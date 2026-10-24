@@ -2,7 +2,7 @@
 
 Paste what you have about someone and ask one question. LunaNine researches public sources and writes you a report.
 
-Links, messages, a name, usernames. Included with Pro and Agency.
+Links, messages, a name, usernames. Included with Base.
 
 [Create an account](https://lunanineai.com/signup)[bgcheck.luna9.space](https://bgcheck.luna9.space/)
 
@@ -97,7 +97,7 @@ No. It reads public sources and writes a report. It does not pull private record
 
 ### Who can run one?
 
-Background checks are included with Pro and Agency.
+Background checks are included with Base.
 
 ### What if a check does not finish?
 
@@ -109,4 +109,4 @@ No credit used.
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/products/bgcheck*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/products/bgcheck*

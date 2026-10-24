@@ -2,7 +2,7 @@
 
 You talk to it. It plans, builds, ships, and keeps the site up.
 
-A message or a voice note. The bakery below is one job, start to finish.
+A message. The bakery below is one job, start to finish.
 
 [Create an account](https://lunanineai.com/signup)
 
@@ -16,7 +16,7 @@ Bakery site
 
 9:42 AM
 
-## Same day
+## 30 minutes or less
 
 Got it. Menu, hours, and cake orders. One page, or a shop with checkout?
 
@@ -127,15 +127,15 @@ You type this when an order ships
 
 ## Included
 
-The same work on Base, Pro, and Agency. [Pricing](https://lunanineai.com/pricing)
+The same work on Starter and Base. [Pricing](https://lunanineai.com/pricing)
 
 -   ### You say it
     
-    A message, a voice note, or a live call. You can stay hands-off or approve the plan.
+    A message. You can stay hands-off or approve the plan.
     
 -   ### It ships and stays
     
-    It plans, builds, and ships the same day. It keeps the site up and changes it when you ask. It tells you when something needs you.
+    It plans, builds, and ships in 30 minutes or less. It keeps the site up and changes it when you ask. It tells you when something needs you.
     
 -   ### It hosts the site
     
@@ -161,13 +161,9 @@ The same work on Base, Pro, and Agency. [Pricing](https://lunanineai.com/pricing
     
     You see who came. Add a Google tag, a video, a calendar, a map, or a form you already use. It appears on the next publish.
     
--   ### It reminds you
-    
-    Set a reminder. It tells you when that time comes.
-    
 -   ### A sales team you describe
     
-    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Pro and Agency.
+    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Base.
     
 -   ### Hand the site over
     
@@ -180,11 +176,11 @@ The same work on Base, Pro, and Agency. [Pricing](https://lunanineai.com/pricing
     
     ### You say the site you need
     
-    A message or a voice note. No spec, no ticket.
+    A message. No spec, no ticket.
     
 2.  2
     
-    ### It ships it the same day
+    ### It ships it in 30 minutes or less
     
     It asks a few questions, then plans, builds, and ships. You can stay hands-off or approve the plan.
     
@@ -217,4 +213,4 @@ You say the site you need. It asks a few questions, then plans, builds, and ship
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/products/site-builder*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/products/site-builder*

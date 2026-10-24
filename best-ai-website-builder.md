@@ -53,7 +53,7 @@ A prompt that becomes a web app you will own.
 
 Pros
 
--   Text, a voice note, or a call. Base includes all three.
+-   A message. Base includes it.
 -   You say the change. LunaNine ships it and keeps the site.
 -   One price covers the build, the hosting, and keeping the site up.
 
@@ -152,4 +152,4 @@ Lovable lets you take the project. 10Web builds on WordPress, so leaving is a mi
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/best-ai-website-builder*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/best-ai-website-builder*

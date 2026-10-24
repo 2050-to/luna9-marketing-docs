@@ -44,7 +44,7 @@ These operators are looking into better tools and automations. But no one serves
 
 **An entry level plan: $30 per month, $300 per year.**
 
-This plan keeps voice notes and text but not phone calls.
+You start a site in a message.
 
 **A premium plan: $100 per month, $1000 per year**
 
@@ -144,7 +144,7 @@ We follow these principles:
 
 **Synchronous conversation often helps us think in ways we usually do not, similarly, letting a stream of consciouness come out in a voice message can lead us to realizations about our objective or desired outcome.**
 
-Both of these mediums, the voice call and the voice message can happen on the go, in those tiny gaps in our busy days.
+A site is started in a message.
 
 We could talk about the technology being ready and scalable but the truth is, voice matters more than we give it credit for.
 
@@ -175,4 +175,4 @@ Waitlist is live at [luna9.space](https://luna9.space).
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/whitepaper*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/whitepaper*

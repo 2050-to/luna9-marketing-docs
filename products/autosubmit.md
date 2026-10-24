@@ -102,7 +102,7 @@ $25 a month.
 
 Submit 20 directories in the first week. If none go live and Domain Rating has not moved, email them for a full refund.
 
-### Is this part of Base or Pro?
+### Is this part of Starter or Base?
 
 No. AutoSubmit is a separate product at autosubmit.to.
 
@@ -112,4 +112,4 @@ No. AutoSubmit is a separate product at autosubmit.to.
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/products/autosubmit*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/products/autosubmit*

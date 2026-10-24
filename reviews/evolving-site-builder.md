@@ -43,7 +43,7 @@ You say the change. LunaNine ships it and keeps the site.
 
 ### You can talk or call
 
-Text, a voice note, or a call. Base includes all three.
+A message. Base includes it.
 
 ### One price covers the loop
 
@@ -141,7 +141,7 @@ v0 fits a developer who wants generated interface code and will deploy and maint
 
 ### LunaNine
 
-LunaNine is an evolving site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it. Base is $30 a month and includes text, voice, and a call. LunaNine hosts the site. You do not take the source with you.
+LunaNine is an evolving site builder you can talk to. You say the site you need. It plans, builds, ships, and maintains it. Base is $30 a month. You start a site in a message. LunaNine hosts the site. You do not take the source with you.
 
 -   [Evolving Site Builder](https://lunanineai.com/products/site-builder)
 -   [Pricing](https://lunanineai.com/pricing)
@@ -167,4 +167,4 @@ With LunaNine, no. You say what should change. It does the change and keeps the 
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/reviews/evolving-site-builder*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/reviews/evolving-site-builder*

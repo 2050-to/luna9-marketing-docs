@@ -10,7 +10,7 @@ Most site builders hand you a draft and leave. Hosting, fixes, and updates becom
 
 ## How it works
 
-You say the site you need, in a message or a voice note. It asks a few questions, then plans, builds, tests, and ships. You can approve the plan or stay hands-off. After launch it maintains the site. Base is $30/mo or $300/yr (text and voice notes). Pro is $100/mo or $1,000/yr (includes live calls). Agency is $200/mo or $2,000/yr (no platform fee on payments). No metered billing, no surprise bills.
+You say the site you need, in a message. It asks a few questions, then plans, builds, tests, and ships. You can approve the plan or stay hands-off. After launch it maintains the site. Starter is $20/mo or $200/yr. Base is $30/mo or $300/yr. No metered billing, no surprise bills.
 
 ## Community
 
@@ -65,4 +65,4 @@ Ben Spak is CEO of LunaNine, owning marketing, positioning, and partnerships. A 
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/about*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/about*

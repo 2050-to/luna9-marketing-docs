@@ -133,11 +133,11 @@ A service kit, a product kit, or one page. The work around the site is the same.
 
 -   ### You say it
     
-    A message, a voice note, or a live call. You can stay hands-off or approve the plan.
+    A message. You can stay hands-off or approve the plan.
     
 -   ### It ships and stays
     
-    It plans, builds, and ships the same day. It keeps the site up and changes it when you ask. It tells you when something needs you.
+    It plans, builds, and ships in 30 minutes or less. It keeps the site up and changes it when you ask. It tells you when something needs you.
     
 -   ### It hosts the site
     
@@ -163,13 +163,9 @@ A service kit, a product kit, or one page. The work around the site is the same.
     
     You see who came. Add a Google tag, a video, a calendar, a map, or a form you already use. It appears on the next publish.
     
--   ### It reminds you
-    
-    Set a reminder. It tells you when that time comes.
-    
 -   ### A sales team you describe
     
-    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Pro and Agency.
+    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Base.
     
 -   ### Hand the site over
     
@@ -182,11 +178,11 @@ A service kit, a product kit, or one page. The work around the site is the same.
     
     ### You say the site you need
     
-    A message or a voice note. No spec, no ticket.
+    A message. No spec, no ticket.
     
 2.  2
     
-    ### It ships it the same day
+    ### It ships it in 30 minutes or less
     
     It asks a few questions, then plans, builds, and ships. You can stay hands-off or approve the plan.
     
@@ -217,4 +213,4 @@ Yes. Menu, hours, and cake orders.
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/solutions/industry*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/solutions/industry*

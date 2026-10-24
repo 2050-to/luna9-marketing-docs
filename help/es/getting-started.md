@@ -9,6 +9,6 @@ El registro está abierto. No hay contraseña.
 2. Inicia sesión con Google, un enlace que enviamos a tu correo, o una billetera que tenga $LUNA9.
 3. Llegas al chat en `/app/chat`.
 
-El chat y las llamadas en vivo requieren un plan Base o Pro. Paga con tarjeta en [Ajustes](https://lunanineai.com/app/settings/), o conecta una billetera que desbloquee el beneficio de titular correspondiente.
+El chat requiere un plan Starter o Base. Paga con tarjeta en [Ajustes](https://lunanineai.com/app/settings/), o conecta una billetera que desbloquee el beneficio de titular correspondiente.
 
 ¿Ya tienes una cuenta? Usa [lunanineai.com/login](https://lunanineai.com/login).

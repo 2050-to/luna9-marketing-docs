@@ -49,15 +49,8 @@ The large players have no incentive to cater to this market, but we do.
 Up to 3 projects and 1 domain. Client payments cost 8% (5% platform + 3% Stripe).
 
 **An entry level plan: $30 per month, $300 per year (10x monthly).**
-This plan keeps voice notes and text but not phone calls.
-Up to 5 projects and 3 domains.
-
-**A premium plan: $100 per month, $1,000 per year**
-Up to 15 projects and 9 domains, plus Sales, Calls, and background checks.
-
-**An agency plan: $200 per month, $2,000 per year.**
-The same work as Pro, and no platform fee on payments.
-Up to 50 projects and 25 domains, plus those tools.
+You start a site in a message.
+Up to 5 projects and 3 domains. Sales and background checks are on this plan.
 
 For additional usage we will have a top up model with "Booster Packs". 
 
@@ -91,10 +84,9 @@ We follow these principles:
 
 ## Why voice first
 
-**Synchronous conversation often helps us think in ways we usually do not, similarly, letting a stream of consciouness come out in a voice message can lead us to realizations about our objective or desired outcome.**
+Letting a stream of consciousness come out in a voice message can lead us to realizations about our objective or desired outcome.
 
-
-Both of these mediums, the voice call and the voice message can happen on the go, in those tiny gaps in our busy days. 
+A site is started in a message. 
 
 We could talk about the technology being ready and scalable but the truth is, voice matters more than we give it credit for. 
 

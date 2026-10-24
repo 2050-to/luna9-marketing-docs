@@ -12,7 +12,7 @@ The person who runs the business, on their own.
 
 You say
 
-You say the site you need, in a message or a voice note.
+You say the site you need, in a message.
 
 It ships
 
@@ -58,7 +58,7 @@ Pro is more builds and more room to talk in that month. It is not a different pr
 
 Example Goods
 
-Pro
+Base
 
 Ships US-wide
 
@@ -120,7 +120,7 @@ An email, nothing else.
 
 ## Someone who builds for clients
 
-Agency is the same work, with no platform fee on payments.
+Base is the same work. A customer with their own plan can take the site.
 
 You say
 
@@ -146,11 +146,11 @@ The same work for the person who runs it. Not a department tool. [Pricing](https
 
 -   ### You say it
     
-    A message, a voice note, or a live call. You can stay hands-off or approve the plan.
+    A message. You can stay hands-off or approve the plan.
     
 -   ### It ships and stays
     
-    It plans, builds, and ships the same day. It keeps the site up and changes it when you ask. It tells you when something needs you.
+    It plans, builds, and ships in 30 minutes or less. It keeps the site up and changes it when you ask. It tells you when something needs you.
     
 -   ### It hosts the site
     
@@ -176,13 +176,9 @@ The same work for the person who runs it. Not a department tool. [Pricing](https
     
     You see who came. Add a Google tag, a video, a calendar, a map, or a form you already use. It appears on the next publish.
     
--   ### It reminds you
-    
-    Set a reminder. It tells you when that time comes.
-    
 -   ### A sales team you describe
     
-    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Pro and Agency.
+    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Base.
     
 -   ### Hand the site over
     
@@ -195,11 +191,11 @@ The same work for the person who runs it. Not a department tool. [Pricing](https
     
     ### You say the site you need
     
-    A message or a voice note. No spec, no ticket.
+    A message. No spec, no ticket.
     
 2.  2
     
-    ### It ships it the same day
+    ### It ships it in 30 minutes or less
     
     It asks a few questions, then plans, builds, and ships. You can stay hands-off or approve the plan.
     
@@ -218,7 +214,7 @@ Anyone who wants a site without learning a builder or hiring an agency.
 
 ### What changes if I move to Pro?
 
-The same work, with more room to talk and to build.
+Enough to run the work in a message.
 
 ### Can a larger company use it?
 
@@ -226,7 +222,7 @@ Yes. The person who runs the site is still the user. LunaNine is not a departmen
 
 ### What if I build sites for clients?
 
-Agency is the same work, with no platform fee. A customer with their own plan can take the site.
+A customer with their own plan can take the site.
 
 -   [Use cases](https://lunanineai.com/solutions/use-cases)
 -   [By industry](https://lunanineai.com/solutions/industry)
@@ -234,4 +230,4 @@ Agency is the same work, with no platform fee. A customer with their own plan ca
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/solutions/company-size*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/solutions/company-size*

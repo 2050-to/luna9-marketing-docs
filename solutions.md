@@ -26,15 +26,15 @@ Service businesses, product businesses, and a simple page. Not separate products
 
 ## Included
 
-The same work on Base, Pro, and Agency. [Pricing](https://lunanineai.com/pricing)
+The same work on Starter and Base. [Pricing](https://lunanineai.com/pricing)
 
 -   ### You say it
     
-    A message, a voice note, or a live call. You can stay hands-off or approve the plan.
+    A message. You can stay hands-off or approve the plan.
     
 -   ### It ships and stays
     
-    It plans, builds, and ships the same day. It keeps the site up and changes it when you ask. It tells you when something needs you.
+    It plans, builds, and ships in 30 minutes or less. It keeps the site up and changes it when you ask. It tells you when something needs you.
     
 -   ### It hosts the site
     
@@ -60,13 +60,9 @@ The same work on Base, Pro, and Agency. [Pricing](https://lunanineai.com/pricing
     
     You see who came. Add a Google tag, a video, a calendar, a map, or a form you already use. It appears on the next publish.
     
--   ### It reminds you
-    
-    Set a reminder. It tells you when that time comes.
-    
 -   ### A sales team you describe
     
-    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Pro and Agency.
+    Tell it how the team is paid. Nothing is saved until you confirm. You approve a closed month, then send the payout. This is on Base.
     
 -   ### Hand the site over
     
@@ -74,4 +70,4 @@ The same work on Base, Pro, and Agency. [Pricing](https://lunanineai.com/pricing
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/solutions*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-24; live page: https://lunanineai.com/solutions*
