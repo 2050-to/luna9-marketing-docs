@@ -69,4 +69,4 @@ LunaNine hosts the site, and you do not take the source. It is different after l
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-23; live page: https://lunanineai.com/hosted-ai-site-builders*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-25; live page: https://lunanineai.com/hosted-ai-site-builders*
