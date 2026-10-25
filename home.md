@@ -153,7 +153,6 @@ Connect a wallet on Robinhood Chain. The balance you hold includes the matching 
 
 -   1,000 $LUNA9 - 20 checks a month, coming soon. That room is set aside. Checks are not available yet.
 -   $30 of $LUNA9 - Base included.
--   $100 of $LUNA9 - Base included.
 
 Under 1,000 $LUNA9, you can still sign in and pay by card.
 
