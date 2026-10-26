@@ -13,6 +13,52 @@ Checked October 2026.
 
 ## The same four rows
 
+Compare two
+
+All builders
+
+First builderLunaNineWixSquarespaceFramerDurableHostinger10WebLovable⇄
+
+Second builderLunaNineWixSquarespaceFramerDurableHostinger10WebLovable
+
+The same four rows
+
+[LunaNine](https://lunanineai.com/products/site-builder)
+
+[Wix](https://www.wix.com/)
+
+Best for
+
+You say the next change and want it shipped.
+
+A small business that wants bookings, payments, and apps in one host.
+
+Pros
+
+-   A message. Base includes it.
+-   You say the change. LunaNine ships it and keeps the site.
+-   One price covers the build, the hosting, and keeping the site up.
+
+-   Bookings, payments, and a large app list live in one place.
+-   Its AI gets you past a blank page.
+-   The broadest small-business toolkit on this board.
+
+Cons
+
+-   LunaNine hosts the site.
+-   You do not take the source.
+-   Base is $30 / month. That is not the cheapest start.
+
+-   The site stays on Wix.
+-   The free plan shows Wix ads. A custom domain and payments need a paid plan.
+-   After the first generation, you edit the site yourself.
+
+After launch
+
+You say the next change. LunaNine ships it.
+
+You edit it on Wix.
+
 Durable, Hostinger, and Lovable sit on the board for a fast local site, the lowest advertised start, and a project you can take. Scroll sideways. The columns stay next to each other.
 
 The same four rows
@@ -130,6 +176,8 @@ You edit it in WordPress.
 
 Later changes are yours.
 
+1 / 8
+
 For where each kind of tool stops, see the [evolving site builder review](https://lunanineai.com/reviews/evolving-site-builder). For what hosted means, see [hosted AI site builders](https://lunanineai.com/hosted-ai-site-builders).
 
 -   [Evolving Site Builder](https://lunanineai.com/products/site-builder)
@@ -152,4 +200,4 @@ Lovable lets you take the project. 10Web builds on WordPress, so leaving is a mi
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-25; live page: https://lunanineai.com/best-ai-website-builder*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-10-26; live page: https://lunanineai.com/best-ai-website-builder*
