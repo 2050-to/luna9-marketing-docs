@@ -6,7 +6,7 @@ Open beta - now live
 
 An evolving site builder that plans, builds, ships and maintains your site.
 
-[Create an account](https://lunanineai.com/signup)[Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
+[Create an account](https://lunanineai.com/signup)Book a Call
 
 -   Reliable
 -   Fast
@@ -182,7 +182,7 @@ Open beta - now live. [Create an account](https://lunanineai.com/signup) and sta
 
 Create an account at [luna9.space/signup](https://lunanineai.com/signup). Already have an account? [Sign in](https://lunanineai.com/login).
 
-[Create an account](https://lunanineai.com/signup)[Join the Telegram group](https://t.me/+gSw44BGSfD0wY2Fh)
+[Create an account](https://lunanineai.com/signup)Book a Call
 
 ---
 
