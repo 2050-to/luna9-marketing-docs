@@ -180,7 +180,7 @@ Open beta - now live. [Create an account](https://lunanineai.com/signup) and sta
 
 ## What site are we building today?
 
-Create an account at [luna9.space/signup](https://lunanineai.com/signup). Already have an account? [Sign in](https://lunanineai.com/login).
+Create an account at [lunanineai.com/signup](https://lunanineai.com/signup). Already have an account? [Sign in](https://lunanineai.com/login).
 
 [Create an account](https://lunanineai.com/signup)Book a Call
 

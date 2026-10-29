@@ -171,7 +171,7 @@ _Exact threshold is to be determined._
 
 ## Get Access
 
-Waitlist is live at [luna9.space](https://luna9.space).
+Waitlist is live at [lunanineai.com](https://lunanineai.com).
 
 ---
 
