@@ -4,7 +4,7 @@ Paste what you have about someone and ask one question. LunaNine researches publ
 
 Links, messages, a name, usernames. Included with Base.
 
-[Create an account](https://lunanineai.com/signup)[bgcheck.luna9.space](https://bgcheck.luna9.space/)
+[Create an account](https://lunanineai.com/signup)bgcheck.lunanineai.com
 
 ## A vendor
 
