@@ -1,6 +1,6 @@
 # Products
 
-Three products. LunaNine builds and keeps the site. AutoSubmit gets a launch listed. BG Check reads public sources before you commit.
+Four products. LunaNine builds and keeps the site. AutoSubmit gets a launch listed. BG Check reads public sources before you commit. FormSecured builds forms an agent can send and read back.
 
 You talk to LunaNine in a message.
 
@@ -23,6 +23,12 @@ One launch profile fills a directory catalog, so a launch can be found. A separa
 A written report from public sources before you hire, buy, or partner.
 
 [BG Check](https://lunanineai.com/products/bgcheck)
+
+## FormSecured
+
+A form an agent can build, send, and read back. A separate product, $10 a year.
+
+formsecured.com
 
 ## Example sites
 
@@ -116,4 +122,4 @@ The same work on Starter and Base. [Pricing](https://lunanineai.com/pricing)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-11-03; live page: https://lunanineai.com/products*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-11-09; live page: https://lunanineai.com/products*
