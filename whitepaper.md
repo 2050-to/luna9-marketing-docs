@@ -175,4 +175,4 @@ Waitlist is live at [lunanineai.com](https://lunanineai.com).
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-11-11; live page: https://lunanineai.com/whitepaper*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-11-12; live page: https://lunanineai.com/whitepaper*
