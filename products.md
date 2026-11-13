@@ -1,6 +1,6 @@
 # Products
 
-Four products. LunaNine builds and keeps the site. AutoSubmit gets a launch listed. BG Check reads public sources before you commit. FormSecured builds forms an agent can send and read back.
+Five products. LunaNine builds and keeps the site. AutoSubmit gets a launch listed. BG Check reads public sources before you commit. FormSecured builds forms an agent can send and read back. GPU Router rents a GPU from inside the agent.
 
 You talk to LunaNine in a message.
 
@@ -29,6 +29,12 @@ A written report from public sources before you hire, buy, or partner.
 A form an agent can build, send, and read back. A separate product, $10 a year.
 
 formsecured.com
+
+## GPU Router
+
+Rent a GPU from the session. Quoted before it starts, billed by the minute. A separate product.
+
+gpurouter.app
 
 ## Example sites
 
@@ -122,4 +128,4 @@ The same work on Starter and Base. [Pricing](https://lunanineai.com/pricing)
 
 ---
 
-*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-11-12; live page: https://lunanineai.com/products*
+*Exported from [2050-to/luna9](https://github.com/2050-to/luna9) on 2026-11-13; live page: https://lunanineai.com/products*
