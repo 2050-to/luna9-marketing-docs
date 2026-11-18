@@ -123,7 +123,7 @@ $20 / month
 
 or $200 / year
 
-[Buy Starter](https://lunanineai.com/login)
+Buy Starter
 
 Enough to run the work on a few projects.
 
@@ -137,7 +137,7 @@ $30 / month
 
 or $300 / year
 
-[Buy Base](https://lunanineai.com/login)
+Buy Base
 
 Enough to run the work in a message.
 
